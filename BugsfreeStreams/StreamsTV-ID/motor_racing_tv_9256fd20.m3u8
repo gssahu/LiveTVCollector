@@ -3,8 +3,8 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=928000,RESOLUTION=640x360
-https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/e604d4ef-ccf1-474f-b282-b678efd02192:CHS/variant/42f1a8aff6e528a03437b58720a19a45/bandwidth/928000.m3u8
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/87b22303-c371-43a7-b707-23b3c03e3a4f:TUL/variant/42f1a8aff6e528a03437b58720a19a45/bandwidth/928000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1728000,RESOLUTION=854x480
-https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/e604d4ef-ccf1-474f-b282-b678efd02192:CHS/variant/ae9eb25c04d61b6de6461e9668e59fde/bandwidth/1728000.m3u8
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/87b22303-c371-43a7-b707-23b3c03e3a4f:TUL/variant/ae9eb25c04d61b6de6461e9668e59fde/bandwidth/1728000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3328000,RESOLUTION=1280x720
-https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/e604d4ef-ccf1-474f-b282-b678efd02192:CHS/variant/c587157d83c07c094ddbd5827f285bc4/bandwidth/3328000.m3u8
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/87b22303-c371-43a7-b707-23b3c03e3a4f:TUL/variant/c587157d83c07c094ddbd5827f285bc4/bandwidth/3328000.m3u8
