@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-07 07:36:38",
+  "date": "2026-01-07 14:08:38",
   "channels": {
     "Religious": [
       {
@@ -3892,7 +3892,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3754.ts"
+        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40584.ts"
       },
       {
         "name": "NFL Channel",
@@ -3930,6 +3930,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3661.ts"
       },
       {
+        "name": "MLB Network (Alt)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/663879.ts"
+      },
+      {
         "name": "MLB Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -3942,13 +3949,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2480.ts"
-      },
-      {
-        "name": "MLB Big Inning",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://vocotv.pro:80/live/10/12345/715294.ts"
       },
       {
         "name": "NHL Network",
@@ -4511,13 +4511,6 @@
         "url": "http://dai.google.com/linear/hls/event/zZK1PADpSfCbSMyFTcwufQ/master.m3u8"
       },
       {
-        "name": "Bally Sports (Banana Ball)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://dai.google.com/linear/hls/event/hGUW8YfcStaj5w0z-DWxTg/master.m3u8"
-      },
-      {
         "name": "Bally Sports (Poker)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -4536,14 +4529,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8"
+        "url": "https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n4=content_name&ads.v4=EPG%20%7C%20PokerGo&ads.n21=h&ads.v21=1080&ads.n22=dnt&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012786&ads.n24=app_name&ads.v24=&ads.n25=device_model&ads.v25=&ads.n26=content_provider&ads.v26=pokergo&ads.n27=channel_ext_id&ads.v27=62854474b70b3427203aeabc&ads.n28=gpp_sid&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=app_store_url&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_custom_3_param&ads.v32=channel&ads.n33=content_custom_2_param&ads.v33=AMDB012786&ads.n34=content_type&ads.v34=channel&ads.n35=content_producer_name&ads.v35=Poker%20Central%20LLC&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=device_make&ads.v37=&ads.n38=channel_id&ads.v38=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n39=channel_language&ads.v39=en&ads.n40=channel_corp&ads.v40=Poker%20Central%20LLC&ads.n41=did&ads.v41=&ads.n42=pos&ads.v42=midroll&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=app_version&ads.v44=0.0.0&ads.n45=channel_title&ads.v45=EPG%20%20PokerGo&ads.n46=gpp&ads.v46=&ads.n47=channel_genre&ads.v47=Gaming&ads.n48=w&ads.v48=1920&ads.n49=device_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=app_bundle&ads.v54=&ads.n55=channel_name&ads.v55=EPG%20%20PokerGo&ads.n56=network_name&ads.v56=pokergo&ads.n57=content_custom_1_param&ads.v57=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n58=channel_company_id&ads.v58=AMDP500405"
       },
       {
         "name": "WPT (World Poker Tour)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8"
+      },
+      {
+        "name": "YES Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2377.ts"
       },
       {
         "name": "Big Ten Network",
@@ -4599,7 +4599,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/UFC/index.m3u8"
+        "url": "http://fl1.moveonjoy.com/UFC/mpegts"
       },
       {
         "name": "UFC Channel 24/7",
@@ -4676,21 +4676,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl2.moveonjoy.com/MSG/index.m3u8"
+        "url": "https://fl2.moveonjoy.com/MSG/mpegts"
       },
       {
         "name": "MSG 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48366.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts"
       },
       {
         "name": "MSG+",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/23289.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4434.ts"
       },
       {
         "name": "MSGSN",
@@ -4698,13 +4698,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648959.ts"
-      },
-      {
-        "name": "MSGSN 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts"
       },
       {
         "name": "MSG SportsZone",
@@ -4718,7 +4711,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/WWE/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/WWE/mpegts"
       },
       {
         "name": "TNA Wrestling Channel",
@@ -34782,7 +34775,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HBO_2/mpegts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3655.ts"
       },
       {
         "name": "HBO Hits (West)",
@@ -34796,7 +34789,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648976.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3656.ts"
       },
       {
         "name": "HBO Movies (West)",
@@ -34810,7 +34803,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648982.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51552.ts"
       },
       {
         "name": "HBO Drama (West)",
@@ -34873,14 +34866,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48357.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/694516.ts"
       },
       {
         "name": "Cinemax Action",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/23346.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51557.ts"
       },
       {
         "name": "Paramount+ with Showtime (West)",
@@ -34978,7 +34971,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/23256.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3969.ts"
       },
       {
         "name": "Showtime (Sho X BET) (West)",
@@ -38113,14 +38106,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/live/folalawal@/4044225438/190956.ts"
-      },
-      {
-        "name": "NFL Network (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40584.ts"
+        "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40601.ts"
       },
       {
         "name": "Sportsnet 360 (Canada)",
