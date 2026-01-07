@@ -174,6 +174,11 @@ URL: https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Al Jazeera
+URL: http://103.60.204.26:3255/Aljazeera/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: TRT 1
 URL: https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -558,6 +563,11 @@ URL: https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Music Bangla
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Bengali Beats
 URL: https://tplay.live/originals/bengali-beats/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -758,6 +768,11 @@ URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Jio SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
+URL: https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: BPL 2026 🚨 🎯 📡 T Sports  🚨
 URL: http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tsports/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -800,6 +815,16 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: সনি টেন ২  🎯 📡
 URL: http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Ten Cricket HD 📺
+URL: http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tencricket/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Sports 1 HD 🎯 📡
+URL: http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starsports1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
