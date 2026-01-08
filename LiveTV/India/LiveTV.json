@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-07 21:48:25",
+  "date": "2026-01-08 06:29:46",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -365,13 +365,6 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
       },
       {
-        "name": "METV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Channel S UK HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",
         "group": "Bangla",
@@ -530,6 +523,13 @@
       }
     ],
     "Bangla Movies": [
+      {
+        "name": "Movie Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+      },
       {
         "name": "Amar Bangla",
         "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
@@ -709,6 +709,13 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8"
+      },
+      {
+        "name": "Zee Anmol Cinema 2",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
       },
       {
         "name": "B4U Movies",
@@ -1099,13 +1106,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
-      },
-      {
-        "name": "Utsav Gold",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://45.148.145.57/IN_STU/index.m3u8"
       },
       {
         "name": "A SPORTS",
@@ -1640,25 +1640,11 @@
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
-        "name": "Cartoon Network Hindi",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
-      },
-      {
         "name": "দূরন্ত টিভি",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
-      },
-      {
-        "name": "Movie Bangla",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
       },
       {
         "name": "US-BD Journal 24 TV",
@@ -2474,6 +2460,13 @@
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
       },
       {
+        "name": "BBC News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
+      },
+      {
         "name": "DW English",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -2558,13 +2551,6 @@
         "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
       },
       {
-        "name": "NDTV English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
-      },
-      {
         "name": "NDTV Hindi",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -2600,6 +2586,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/391/master.m3u8"
+      },
+      {
+        "name": "22Scope News (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
       },
       {
         "name": "24 News (396p)",
@@ -3211,6 +3204,13 @@
         "url": "https://cdn-6.pishow.tv/live/10014/master.m3u8"
       },
       {
+        "name": "NDTV 24X7 (480p) [Not 24/7]",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+      },
+      {
         "name": "NDTV Madhya Pradesh Chhattisgarh (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MPCG/images/LOGO_HD/image.png",
         "group": "News",
@@ -3636,6 +3636,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8"
+      },
+      {
+        "name": "Salaam TV (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8"
       },
       {
         "name": "Samachar Plus (1080p)",
@@ -4314,13 +4321,6 @@
         "url": "https://stream.galaxyott.live/live/anandhamtv/index.m3u8"
       },
       {
-        "name": "Anmol Cinema 2 (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
-      },
-      {
         "name": "B4U Bhojpuri (1080p)",
         "logo": "https://i.imgur.com/NwOQUDp.png",
         "group": "Movies",
@@ -4599,13 +4599,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.galaxyott.live/live/suriyantv/index.m3u8"
-      },
-      {
-        "name": "Tata Sky Bollywood Premiere (1080p)",
-        "logo": "https://i.imgur.com/VngCqQB.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.178.78.151:7505/play/a1vu/index.m3u8"
       },
       {
         "name": "Thalaa TV (1080p)",
