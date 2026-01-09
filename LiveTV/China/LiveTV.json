@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-08 22:04:56",
+  "date": "2026-01-09 07:29:32",
   "channels": {
     "Uncategorized": [
       {
@@ -4511,7 +4511,7 @@
         "url": "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8"
       },
       {
-        "name": "2026-01-09 00:30:22",
+        "name": "2026-01-09 06:26:56",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
@@ -4634,13 +4634,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000130.m3u8"
-      },
-      {
-        "name": "CCTV11",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8"
       },
       {
@@ -4649,6 +4642,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://182.150.23.74:808/hls/11/index.m3u8"
+      },
+      {
+        "name": "CCTV11",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://61.136.172.236:9901/tsfile/live/0011_1.m3u8"
       },
       {
         "name": "CCTV12",
@@ -4886,14 +4886,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000061.m3u8"
+        "url": "http://112.46.85.60:8009/hls/502/index.m3u8"
       },
       {
         "name": "CCTV2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://112.46.85.60:8009/hls/502/index.m3u8"
+        "url": "https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8"
       },
       {
         "name": "CCTV3",
@@ -4970,6 +4970,13 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://58.57.40.22:9901/tsfile/live/1004_1.m3u8"
+      },
+      {
+        "name": "CCTV5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://23.237.228.134/live5/CCTV5p.m3u8"
       },
       {
@@ -4978,13 +4985,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://23.237.228.134/live5/CCTV5.m3u8"
-      },
-      {
-        "name": "CCTV5",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1004_1.m3u8"
       },
       {
         "name": "CCTV5",
@@ -5061,13 +5061,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000065.m3u8"
-      },
-      {
-        "name": "CCTV6",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8"
       },
       {
@@ -5078,18 +5071,18 @@
         "url": "http://182.150.23.74:808/hls/6/index.m3u8"
       },
       {
-        "name": "CCTV7",
+        "name": "CCTV6",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1007_1.m3u8"
+        "url": "http://61.156.228.12:8154/tsfile/live/0006_1.m3u8"
       },
       {
         "name": "CCTV7",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://222.214.208.34:59901/tsfile/live/0007_1.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1007_1.m3u8"
       },
       {
         "name": "CCTV7",
@@ -5113,18 +5106,18 @@
         "url": "http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8"
       },
       {
-        "name": "CCTV8",
+        "name": "CCTV7",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1008_1.m3u8"
+        "url": "http://183.11.239.36:808/hls/25/index.m3u8"
       },
       {
         "name": "CCTV8",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://222.214.208.34:59901/tsfile/live/0008_1.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1008_1.m3u8"
       },
       {
         "name": "CCTV8",
@@ -5146,6 +5139,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/96/index.m3u8"
+      },
+      {
+        "name": "CCTV8",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://120.76.248.139/live/bfgd/4200000066.m3u8"
       },
       {
         "name": "CCTV9",
@@ -5572,13 +5572,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://shijiazhuangjingshi-b.synology.me:8092/hls/33/index.m3u8"
-      },
-      {
-        "name": "东南卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8"
       },
       {
@@ -5586,14 +5579,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://61.136.172.236:9901/tsfile/live/0137_1.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000483.m3u8"
       },
       {
-        "name": "东方卫视",
+        "name": "东南卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8"
+        "url": "http://61.136.172.236:9901/tsfile/live/0137_1.m3u8"
       },
       {
         "name": "东方卫视",
@@ -5624,6 +5617,13 @@
         "url": "http://69.30.246.194/live/dfws.m3u8"
       },
       {
+        "name": "东方卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8"
+      },
+      {
         "name": "东森洋片",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -5650,13 +5650,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8"
-      },
-      {
-        "name": "中华小当家",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.metshop.top/huya/11342413"
       },
       {
         "name": "中华小当家",
@@ -6212,13 +6205,6 @@
         "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed"
       },
       {
-        "name": "倚天屠龙记",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/23734246"
-      },
-      {
         "name": "倩女幽魂人间道",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -6454,14 +6440,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://222.134.245.16:9901/tsfile/live/0109_1.m3u8"
+        "url": "http://183.11.239.36:808/hls/60/index.m3u8"
       },
       {
         "name": "内蒙古卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/60/index.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/44/index.m3u8"
       },
       {
         "name": "内蒙经济",
@@ -6506,20 +6492,6 @@
         "url": "http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8"
       },
       {
-        "name": "农林卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/1004_1.m3u8"
-      },
-      {
-        "name": "农林卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0"
-      },
-      {
         "name": "冰冰影剧",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -6553,13 +6525,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://www.douzhicloud.site:35455/douyu/747764"
-      },
-      {
-        "name": "刑事侦缉档案",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465856"
       },
       {
         "name": "刘德华电影",
@@ -6601,13 +6566,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0122_1.m3u8"
-      },
-      {
-        "name": "北京卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://222.134.245.16:9901/tsfile/live/0122_1.m3u8"
       },
       {
@@ -6616,6 +6574,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/41/index.m3u8"
+      },
+      {
+        "name": "北京卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://120.76.248.139/live/bfgd/4200000083.m3u8"
       },
       {
         "name": "北京新闻",
@@ -6811,14 +6776,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1060_1.m3u8"
       },
       {
         "name": "卡酷少儿",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1060_1.m3u8"
+        "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8"
       },
       {
         "name": "卫辉综合",
@@ -7014,13 +6979,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://shijiazhuangjingshi-b.synology.me:8092/hls/44/index.m3u8"
-      },
-      {
-        "name": "吉林卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://111.61.236.247:9081/hls/45/index.m3u8"
       },
       {
@@ -7029,6 +6987,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://cssbyd.imwork.net:8082/hls/41/index.m3u8"
+      },
+      {
+        "name": "吉林卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://183.11.239.36:808/hls/10/index.m3u8"
       },
       {
         "name": "名侦探柯南",
@@ -7092,13 +7057,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://www.douzhicloud.site:35455/huya/11342412"
-      },
-      {
-        "name": "哆啦A梦",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11601963"
       },
       {
         "name": "哈哈炫动",
@@ -7308,13 +7266,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0123_1.m3u8"
-      },
-      {
-        "name": "四川卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://222.134.245.16:9901/tsfile/live/0123_1.m3u8"
       },
       {
@@ -7323,6 +7274,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/50/index.m3u8"
+      },
+      {
+        "name": "四川卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://120.76.248.139/live/bfgd/4200000103.m3u8"
       },
       {
         "name": "四川四姑娘山隆珠措",
@@ -7493,13 +7451,6 @@
         "url": "https://yylunbo.ottiptv.cc/yy/1354930964"
       },
       {
-        "name": "大时代",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/23865161"
-      },
-      {
         "name": "大江大河2高分影视推荐",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -7532,13 +7483,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.123.76.236:8086/hls/29/index.m3u8"
-      },
-      {
-        "name": "大湾区卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/132/index.m3u8"
       },
       {
@@ -7547,6 +7491,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://gmxw.7766.org:808/hls/132/index.m3u8"
+      },
+      {
+        "name": "大湾区卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub"
       },
       {
         "name": "大进军全集红色系列电影",
@@ -7609,14 +7560,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0135_1.m3u8"
+        "url": "http://183.11.239.36:808/hls/42/index.m3u8"
       },
       {
         "name": "天津卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/42/index.m3u8"
+        "url": "http://112.46.85.60:8009/hls/44/index.m3u8"
       },
       {
         "name": "天涯石",
@@ -7689,6 +7640,13 @@
         "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd"
       },
       {
+        "name": "妙手仁心",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/29465853"
+      },
+      {
         "name": "宁夏卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -7729,13 +7687,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://ls.qingting.fm/live/1841/64k.m3u8"
-      },
-      {
-        "name": "宇宙科幻合集",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11342428"
       },
       {
         "name": "安多卫视",
@@ -7969,25 +7920,11 @@
         "url": "http://www.douzhicloud.site:35455/huya/29465848"
       },
       {
-        "name": "射雕英雄传",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/23824164"
-      },
-      {
         "name": "屏边综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund"
-      },
-      {
-        "name": "山东卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221227448/index.m3u8"
       },
       {
         "name": "山东卫视",
@@ -8016,6 +7953,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://120.76.248.139/live/bfgd/4200000099.m3u8"
+      },
+      {
+        "name": "山东卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://182.150.23.74:808/hls/23/index.m3u8"
       },
       {
         "name": "山东教育",
@@ -8092,7 +8036,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8"
+        "url": "http://23.237.228.134/live8/shanxiws.m3u8"
       },
       {
         "name": "山西卫视",
@@ -8106,14 +8050,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live8/shanxiws.m3u8"
+        "url": "http://60.16.0.216:5757/hls/39/index.m3u8"
       },
       {
         "name": "山西卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://60.16.0.216:5757/hls/39/index.m3u8"
+        "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8"
       },
       {
         "name": "岳云鹏宋小宝也来演电影了",
@@ -8239,13 +8183,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.123.76.236:8086/hls/42/index.m3u8"
-      },
-      {
-        "name": "广东体育",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.7.172.224:8888/hls/5/index.m3u8"
       },
       {
@@ -8253,14 +8190,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8"
+        "url": "http://183.11.239.36:808/hls/2/index.m3u8"
       },
       {
-        "name": "广东卫视",
+        "name": "广东体育",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8"
+        "url": "https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8"
       },
       {
         "name": "广东卫视",
@@ -8288,7 +8225,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.123.76.236:8086/hls/44/index.m3u8"
+        "url": "http://hmfs.f3322.net:3388/hls/11/index.m3u8"
+      },
+      {
+        "name": "广东卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://220.231.188.194:8088/hls/28/index.m3u8"
       },
       {
         "name": "广东少儿",
@@ -8386,13 +8330,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1049_1.m3u8"
-      },
-      {
-        "name": "广西卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://23.237.228.134/live6/guangxi.m3u8"
       },
       {
@@ -8400,7 +8337,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live6/guizhou.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1049_1.m3u8"
       },
       {
         "name": "广西卫视",
@@ -8415,6 +8352,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://shijiazhuangjingshi-b.synology.me:8092/hls/39/index.m3u8"
+      },
+      {
+        "name": "广西卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://23.237.228.134/live6/guizhou.m3u8"
       },
       {
         "name": "广西国际",
@@ -8585,13 +8529,6 @@
         "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8"
       },
       {
-        "name": "强森电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/21059581"
-      },
-      {
         "name": "影视小艺",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -8662,6 +8599,13 @@
         "url": "https://play.kankanlive.com/live/1702454377323961.m3u8"
       },
       {
+        "name": "成龙电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/11342386"
+      },
+      {
         "name": "我不是药神",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -8674,13 +8618,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://www.douzhicloud.site:35455/huya/21059574"
-      },
-      {
-        "name": "扫黄先锋",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465855"
       },
       {
         "name": "扶沟综合",
@@ -8928,13 +8865,6 @@
         "url": "http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8"
       },
       {
-        "name": "新白娘子4K观看",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1508902755"
-      },
-      {
         "name": "新蔡综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -9017,6 +8947,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.ynurl.com/video/s10048TV/index.m3u8?zyund"
+      },
+      {
+        "name": "无心法师",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/30080233"
       },
       {
         "name": "无线星河",
@@ -9299,11 +9236,11 @@
         "url": "https://yylunbo.ottiptv.cc/yy/1354889019"
       },
       {
-        "name": "李连杰电影",
+        "name": "朵宝陪你看狄仁杰",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11342390"
+        "url": "https://yylunbo.ottiptv.cc/yy/1353753252"
       },
       {
         "name": "来宾综合",
@@ -9313,18 +9250,18 @@
         "url": "http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8"
       },
       {
-        "name": "松潘新闻综合",
+        "name": "来看修牛蹄",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.spccmc.com:90/live/spxwzh.m3u8"
+        "url": "https://yylunbo.ottiptv.cc/yy/1382749887"
       },
       {
         "name": "松潘新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd"
+        "url": "http://live.spccmc.com:90/live/spxwzh.m3u8"
       },
       {
         "name": "松阳综合",
@@ -9341,11 +9278,25 @@
         "url": "http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl="
       },
       {
+        "name": "林正英电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/11342421"
+      },
+      {
         "name": "林正英经典电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://yylunbo.ottiptv.cc/yy/34229877"
+      },
+      {
+        "name": "枪战电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/21059579"
       },
       {
         "name": "柳河",
@@ -9395,13 +9346,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://yylunbo.ottiptv.cc/yy/1382735627"
-      },
-      {
-        "name": "楚汉骄雄",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465854"
       },
       {
         "name": "橙记港剧",
@@ -9458,13 +9402,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd"
-      },
-      {
-        "name": "武侠电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11342427"
       },
       {
         "name": "武威新闻",
@@ -9681,14 +9618,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1043_1.m3u8"
+        "url": "http://23.237.228.134/live8/jiangxi.m3u8"
       },
       {
         "name": "江西卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live8/jiangxi.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1043_1.m3u8"
       },
       {
         "name": "江西卫视",
@@ -9821,13 +9758,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://shijiazhuangjingshi-b.synology.me:8092/hls/15/index.m3u8"
-      },
-      {
-        "name": "河北卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8"
       },
       {
@@ -9836,6 +9766,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://111.61.236.247:9081/hls/17/index.m3u8"
+      },
+      {
+        "name": "河北卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://183.11.239.36:808/hls/54/index.m3u8"
       },
       {
         "name": "河北都市",
@@ -10020,13 +9957,6 @@
         "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd"
       },
       {
-        "name": "洗冤录",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465851"
-      },
-      {
         "name": "洞头综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -10039,6 +9969,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd"
+      },
+      {
+        "name": "活佛济公3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/23903123"
       },
       {
         "name": "济源电视一套",
@@ -10080,13 +10017,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8"
-      },
-      {
-        "name": "浙江卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://58.57.40.22:9901/tsfile/live/1029_1.m3u8"
       },
       {
@@ -10109,6 +10039,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://39.152.103.17:8089/tsfile/live/1037_1.m3u8"
+      },
+      {
+        "name": "浙江卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8"
       },
       {
         "name": "浙江国际",
@@ -10514,21 +10451,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd,"
-      },
-      {
-        "name": "涟水电视台综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
-      },
-      {
-        "name": "涟水电视台综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd"
       },
       {
         "name": "涡阳新闻综合",
@@ -10612,13 +10535,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1036_1.m3u8"
-      },
-      {
-        "name": "深圳卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://23.237.228.134/live6/shenzhen.m3u8"
       },
       {
@@ -10626,7 +10542,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://free.cnlive.club/channel/6a20c2b1.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1036_1.m3u8"
       },
       {
         "name": "深圳卫视",
@@ -10641,6 +10557,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8"
+      },
+      {
+        "name": "深圳卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://183.11.239.36:808/hls/45/index.m3u8"
       },
       {
         "name": "清官难当看芝麻官如何破局",
@@ -10850,14 +10773,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
+        "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
       },
       {
         "name": "湖州新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
+        "url": "https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
       },
       {
         "name": "溧水新闻综合",
@@ -11053,21 +10976,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.iill.top/huya/11352879"
+        "url": "http://www.douzhicloud.site:35455/huya/11352879"
       },
       {
         "name": "猫和老鼠",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11352879"
-      },
-      {
-        "name": "玄幻电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/11342414"
+        "url": "https://live.iill.top/huya/11352879"
       },
       {
         "name": "王晶电影",
@@ -11231,6 +11147,13 @@
         "url": "http://live.metshop.top/huya/21059578?cdn=alicdn"
       },
       {
+        "name": "电影八点档",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.metshop.top/huya/880261?cdn=alicdn"
+      },
+      {
         "name": "电影刘德华",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -11266,13 +11189,6 @@
         "url": "http://live.metshop.top/huya/11601977?cdn=alicdn"
       },
       {
-        "name": "电影搞笑喜剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.metshop.top/huya/11342423?cdn=alicdn"
-      },
-      {
         "name": "电影犯罪片",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -11301,18 +11217,18 @@
         "url": "http://live.metshop.top/huya/21059599?cdn=alicdn"
       },
       {
+        "name": "电影谍战",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.metshop.top/huya/21059585?cdn=alicdn"
+      },
+      {
         "name": "电影谍战片",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.metshop.top/huya/21059587?cdn=alicdn"
-      },
-      {
-        "name": "电影贺岁",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.metshop.top/huya/11601971?cdn=alicdn"
       },
       {
         "name": "电影高分动作",
@@ -11392,6 +11308,13 @@
         "url": "https://yylunbo.ottiptv.cc/yy/1382741639"
       },
       {
+        "name": "盈江综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund"
+      },
+      {
         "name": "直播中国",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -11460,13 +11383,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://zbbf2.ahbztv.com/live/416.m3u8?zanhd"
-      },
-      {
-        "name": "神雕侠侣",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/23865171"
       },
       {
         "name": "福建新闻",
@@ -11544,13 +11460,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://play.kankanlive.com/live/1680577080200944.m3u8"
-      },
-      {
-        "name": "笑看风云",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465858"
       },
       {
         "name": "第一财经",
@@ -11649,6 +11558,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://www.douzhicloud.site:35455/douyu/6863367"
+      },
+      {
+        "name": "经典港片电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://yylunbo.ottiptv.cc/yy/1461889059"
       },
       {
         "name": "经典港片电影",
@@ -12015,6 +11931,13 @@
         "url": "https://play.kankanlive.com/live/1683944827526991.m3u8"
       },
       {
+        "name": "西游记2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://www.douzhicloud.site:35455/huya/29465859"
+      },
+      {
         "name": "西藏卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12271,7 +12194,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000185.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000141.m3u8"
       },
       {
         "name": "辽宁影视剧",
@@ -12313,7 +12236,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000610.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000068.m3u8"
       },
       {
         "name": "辽宁都市",
@@ -12327,7 +12250,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000068.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000610.m3u8"
       },
       {
         "name": "返乡青年撞破村中隐秘村里有情况",
@@ -12593,14 +12516,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0142_1.m3u8"
+        "url": "http://183.11.239.36:808/hls/53/index.m3u8"
       },
       {
         "name": "重庆卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/53/index.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000107.m3u8"
       },
       {
         "name": "重庆汽摩",
@@ -12685,13 +12608,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://www.douzhicloud.site:35455/huya/11342435"
-      },
-      {
-        "name": "金枝欲孽",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://www.douzhicloud.site:35455/huya/29465847"
       },
       {
         "name": "金鹰卡通",
@@ -13132,6 +13048,13 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://118.233.28.52:50007/li-4gtv-4gtv058/index.m3u8?proxy=true"
+      },
+      {
+        "name": "靖天戏剧",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058"
       },
       {
@@ -13140,6 +13063,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89"
+      },
+      {
+        "name": "靖天映画",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://118.233.28.52:50007/4gtv-4gtv055/index.m3u8?proxy=true"
       },
       {
         "name": "靖天映画",
@@ -13398,14 +13328,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1040_1.m3u8"
+        "url": "http://23.237.228.134/live6/heilongjiang.m3u8"
       },
       {
         "name": "黑龙江卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live6/heilongjiang.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1040_1.m3u8"
       },
       {
         "name": "黑龙江卫视",
@@ -13419,14 +13349,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0143_1.m3u8"
+        "url": "http://183.11.239.36:808/hls/48/index.m3u8"
       },
       {
         "name": "黑龙江卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/48/index.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000095.m3u8"
       },
       {
         "name": "黑龙江少儿",
@@ -17550,20 +17480,6 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
         "url": "http://1.94.31.214:35455/yy/1354889019"
-      },
-      {
-        "name": "晨晨的影视小窝",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1382851576"
-      },
-      {
-        "name": "经典港片电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1461889059"
       }
     ],
     "电视剧频道": [
@@ -20112,22 +20028,6 @@
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8"
-      }
-    ],
-    "解说频道": [
-      {
-        "name": "朵宝陪你看狄仁杰",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1353753252"
-      },
-      {
-        "name": "来看修牛蹄",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1382749887"
       }
     ],
     "4K频道": [
