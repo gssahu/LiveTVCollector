@@ -432,12 +432,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Amar Bangla",
-    "type": "Bangla Movies",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png"
-  },
-  {
     "name": "Gopal Bhar",
     "type": "Kolkata Bangla",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
@@ -1368,12 +1362,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Cartoon Network Hindi",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "দূরন্ত টিভি",
     "type": "",
     "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
@@ -1554,6 +1542,24 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "সনি টেন 1 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://falconftp.noobmaster.xyz/SONYSPORTS1HD/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "সনি টেন 2 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "টি স্পোর্ট 🇧🇩 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://mrgifytv.pages.dev/bpl/tsports/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "🚨 ATN AFG 🚨",
     "type": "Cricket 🏏",
     "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
@@ -1584,6 +1590,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Bein Sports 1🎯",
+    "type": "Football",
+    "url": "https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "BIS HABER",
     "type": "Football",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
@@ -1594,6 +1606,12 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Football",
+    "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -1719,12 +1737,6 @@
     "name": "BBC Cbeebies",
     "type": "Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
