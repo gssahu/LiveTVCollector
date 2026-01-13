@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-13 06:25:38",
+  "date": "2026-01-13 13:48:28",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -1096,13 +1096,6 @@
         "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
       },
       {
-        "name": "Rongeen TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Jungle Book",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s",
         "group": "KIDS",
@@ -1133,6 +1126,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+      },
+      {
+        "name": "Utsav Gold",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://45.148.145.57/IN_STU/index.m3u8"
       },
       {
         "name": "A SPORTS",
@@ -1506,13 +1506,6 @@
         "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
       },
       {
-        "name": "DISCOVERY TURBO",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
-      },
-      {
         "name": "DISCOVERY SCIENCE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1681,6 +1674,13 @@
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
+        "name": "Cartoon Network Hindi",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
+      },
+      {
         "name": "দূরন্ত টিভি",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "",
@@ -1813,14 +1813,16 @@
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
       }
     ],
-    "Live Tv": [
+    "Kids🍭🎯🎉": [
       {
-        "name": "COLORS BANGLA",
+        "name": "Doraemon",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
+        "group": "Kids🍭🎯🎉",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
-      },
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
+      }
+    ],
+    "Live Tv": [
       {
         "name": "DIPPTO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -1841,15 +1843,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://143.244.60.30/Nat_Geo_Wild/index.m3u8"
-      }
-    ],
-    "Kids🍭🎯🎉": [
-      {
-        "name": "Doraemon",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kids🍭🎯🎉",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
       }
     ],
     "Cricket 🏏": [
@@ -1887,13 +1880,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8"
-      },
-      {
-        "name": "SKY CRICKET  🏏🏏BBL 2025🏏🏏",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://f4d0yznb.klaipedalt.xyz/iptv/VFF9R74ZCZFGWQLUWGD7VL6G/7343/index.m3u8"
       },
       {
         "name": "BPL 2026 🚨 🎯 📡 SholSports  🚨",
@@ -2161,6 +2147,13 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
       },
       {
+        "name": "Discovery Kids",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8"
+      },
+      {
         "name": "Duck TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Kids",
@@ -2180,6 +2173,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+      },
+      {
+        "name": "Rongeen TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Zoo Moo",
@@ -3051,13 +3051,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
