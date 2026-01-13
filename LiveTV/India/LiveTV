@@ -936,12 +936,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Utsav Gold",
-    "type": "",
-    "url": "http://45.148.145.57/IN_STU/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "A SPORTS",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03t/index.m3u8",
@@ -1314,12 +1308,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Padma Tv",
-    "type": "",
-    "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "ENTER10 BANGLA",
     "type": "",
     "url": "https://cdn-4.pishow.tv/live/241/master.m3u8",
@@ -1404,6 +1392,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "GUBBARE",
+    "type": "",
+    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "KIDS ZONE",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
@@ -1438,6 +1432,12 @@
     "type": "Hindi Music",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
     "img": "https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"
+  },
+  {
+    "name": "B4U Music",
+    "type": "Hindi Music",
+    "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"
   },
   {
     "name": "B4U Music",
@@ -1846,18 +1846,6 @@
     "type": "Kids",
     "url": "http://103.167.255.18:8085/play/a0k7/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ETV Bal Bharat (576p)",
-    "type": "Kids",
-    "url": "https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts",
-    "img": "https://i.imgur.com/zsTxPV9.png"
-  },
-  {
-    "name": "Gubbare (1080p)",
-    "type": "Kids",
-    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
   },
   {
     "name": "Kochu TV (576p)",
@@ -2565,6 +2553,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
