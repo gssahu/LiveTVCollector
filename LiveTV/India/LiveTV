@@ -396,12 +396,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
   },
   {
-    "name": "Gazi TV",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"
-  },
-  {
     "name": "ATN Bangla UK",
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
@@ -444,34 +438,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel S HD",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://i.ibb.co/QmPPKgg/20240826-231747.png"
-  },
-  {
-    "name": "Channel S UK",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://i.ibb.co/QmPPKgg/20240826-231747.png"
-  },
-  {
     "name": "BONGO DRAMAS",
     "type": "Bangla",
     "url": "https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas",
     "img": "https://i.ibb.co.com/4VtHQpf/20240907-023221.png"
-  },
-  {
-    "name": "Ekhone TV",
-    "type": "Bangla News",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png"
-  },
-  {
-    "name": "Jago News 24",
-    "type": "Jagobd",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"
   },
   {
     "name": "ATN Music",
@@ -483,18 +453,6 @@
     "name": "RTV Music",
     "type": "Bangla Music",
     "url": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Music Bangla",
-    "type": "Bangla Music",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Music Bangla",
-    "type": "Bangla Music",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -543,24 +501,6 @@
     "name": "Arihant TV",
     "type": "Relagion Channel",
     "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Islam bangla",
-    "type": "Islamic",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "AL SUNNAH AL NABAWIYAH TV",
-    "type": "Islamic",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Makka live",
-    "type": "Islamic",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1122,18 +1062,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "HBO Zone",
-    "type": "",
-    "url": "http://200.80.230.124:8000/play/a06p/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HBO XTREME HD",
-    "type": "",
-    "url": "http://200.80.230.124:8000/play/a02b/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "AXN",
     "type": "",
     "url": "http://185.18.56.26:8888/axn/index.m3u8",
@@ -1344,9 +1272,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "DISCOVERY TURBO",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DISCOVERY SCIENCE",
     "type": "",
     "url": "http://103.140.254.2:3500/live/568.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "National Geographic",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1590,6 +1530,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "AL SUNNAH AL NABAWIYAH TV",
+    "type": "Islamic",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Makka live",
+    "type": "Islamic",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "COLORS BANGLA",
     "type": "Live Tv",
     "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
@@ -1641,12 +1593,6 @@
     "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Jio SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨",
-    "type": "Cricket 🏏",
-    "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1708,12 +1654,6 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
-  },
-  {
-    "name": "TRT SPOR",
-    "type": "Football",
-    "url": "https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8",
-    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -1833,12 +1773,6 @@
     "name": "ZB Cartoon",
     "type": "Kids",
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC Cbeebies",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2128,6 +2062,12 @@
     "type": "Entertainment",
     "url": "http://103.140.254.2:3500/live/756.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Colors Gujarati (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.140.254.2:3500/live/196.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors HD (1080p)",
@@ -4198,6 +4138,12 @@
     "type": "Movies",
     "url": "http://103.167.255.18:8085/play/a0kr/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Colors Gujarati Cinema (576p)",
+    "type": "Movies",
+    "url": "http://103.140.254.2:3500/live/1324.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png"
   },
   {
     "name": "Dhamaka Movies B4U (576p)",
