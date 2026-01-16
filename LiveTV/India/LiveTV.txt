@@ -164,11 +164,6 @@ URL: http://103.140.254.2:3500/live/530.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: TRT 1
-URL: https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: TRT 2 HD
 URL: https://tv-trt2.medya.trt.com.tr/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -251,6 +246,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Discover Pakistan
 URL: http://163.61.227.29:8000/play/a03b/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: DISCOVERY
+URL: http://163.61.227.29:8000/play/a01i/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -473,11 +473,6 @@ Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5f
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: BPL 2026
-URL: https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BPL 2026
 URL: http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -492,6 +487,11 @@ Group: Bangla
 Name: BTV World
 URL: http://103.230.105.252:1935/live/btv/manifest.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Gazi TV
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: ATN Bangla UK
@@ -529,6 +529,11 @@ URL: https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Channel S UK
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8
+Logo: https://i.ibb.co/QmPPKgg/20240826-231747.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: BONGO DRAMAS
 URL: https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 Logo: https://i.ibb.co.com/4VtHQpf/20240907-023221.png
@@ -558,9 +563,26 @@ URL: https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Music Bangla
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Music Bangla
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Bengali Beats
 URL: https://tplay.live/originals/bengali-beats/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+
+Group: Bangla News
+Name: Ekhone TV
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
@@ -703,41 +725,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 URL: https://stream.spicefmbd.com/stream.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: T SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Ten_cricket HD 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/toffee/ten_cricket.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Star-sports-SL 1-hd 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/bk/27.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Star-sports-SL 2-hd 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/bk/28.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Sony-Sports-5-HD 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/sony-sports-5-hd.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Sony-Sports-2-HD 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/sony-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Sony-Sports-1-HD 🚨🎯 📡 ⚙️ 📺 🚨
-URL: https://bongoflixbd.top/sony-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1016,9 +1003,19 @@ URL: http://66.102.120.18:8000/play/a014/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Infinity (576p)
+URL: http://103.140.254.2:3500/live/1325.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Colors Kannada (1080p)
 URL: http://103.140.254.2:3500/live/757.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Kannada (576p)
+URL: http://103.140.254.2:3500/live/1370.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Marathi (1080p)
@@ -1026,9 +1023,19 @@ URL: http://103.140.254.2:3500/live/755.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Marathi (576p)
+URL: http://103.140.254.2:3500/live/1326.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Colors Super (1080p)
 URL: http://103.140.254.2:3500/live/785.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Tamil (576p)
+URL: http://103.140.254.2:3500/live/1371.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Tamil HD (1080p)
@@ -1326,6 +1333,11 @@ URL: http://103.140.254.2:3500/live/734.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Zee Bangla (360p)
+URL: http://103.140.254.2:3500/live/625.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Zee Dil Se (1080p)
 URL: https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 Logo: https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png
@@ -1399,6 +1411,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: A SPOR
 URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 Logo: https://i.ibb.co/xSjB51j/aspor.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: PSN 1 Sports
@@ -2057,6 +2074,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Islamic
+Name: Islam bangla
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: AL SUNNAH AL NABAWIYAH TV
 URL: https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2065,6 +2087,13 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Makka live
 URL: https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+
+Group: Jagobd
+Name: Jago News 24
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
@@ -2399,6 +2428,11 @@ URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Bangla Cinema (576p)
+URL: http://103.140.254.2:3500/live/1657.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Colors Cineplex (576p)
 URL: http://103.167.255.18:8085/play/a0km/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png
@@ -2417,6 +2451,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Colors Gujarati Cinema (576p)
 URL: http://103.140.254.2:3500/live/1324.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Kannada Cinema (576p)
+URL: http://103.140.254.2:3500/live/1632.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dhamaka Movies B4U (576p)
@@ -2897,11 +2936,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3769,11 +3803,6 @@ URL: http://103.178.78.151:7505/play/a1qb/index.m3u8
 Logo: https://i.imgur.com/Q8ajPij.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Subhavaartha TV (720p)
-URL: https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sudarshan News (1080p)
 URL: https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png
@@ -4228,6 +4257,16 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Shalom (1080p)
 URL: https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHALOM_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Shubhsandesh TV (720p) [Not 24/7]
+URL: https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Subhavaartha TV (720p)
+URL: https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: SVBC 3 (720p)
@@ -4688,11 +4727,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Shubh TV (1080p)
 URL: https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBH_TV/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Shubhsandesh TV (720p) [Not 24/7]
-URL: https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Tamil Vision TV (1080p)
