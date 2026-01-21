@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-21 06:31:02",
+  "date": "2026-01-21 13:49:27",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -743,6 +743,13 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.145.48.150:90/laosat24/taratv/index.m3u8"
+      },
+      {
+        "name": "Bangla +",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kolkata Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
       }
     ],
     "Kolkata Bangla Music": [
@@ -1313,13 +1320,6 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://200.80.230.124:8000/play/a06q/index.m3u8"
-      },
-      {
-        "name": "HBO2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://185.18.56.26:8888/hbo2/index.m3u8"
       },
       {
@@ -1778,6 +1778,13 @@
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
+        "name": "Cartoon Network Hindi",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
+      },
+      {
         "name": "দূরন্ত টিভি",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "",
@@ -1968,6 +1975,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://116.204.149.16/nagorik/index.m3u8"
+      },
+      {
+        "name": "🚨 A SPORT HD 🚨📡📺",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://poketporota.noobmaster.xyz:8080/ASPORTSHD/index.m3u8"
       },
       {
         "name": "🚨 Willow USA SPORT HD 🚨📡📺",
@@ -3023,6 +3037,13 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
+      },
+      {
+        "name": "Discovery",
+        "logo": "https://i.ibb.co/V2gtYfH/download-1.png",
+        "group": "Infotainment Channels",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://stvlive.net:8080/discovery/index.m3u8"
       }
     ],
     "Entertainment": [
@@ -6442,7 +6463,7 @@
         "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
       },
       {
-        "name": "Zee Business (720p)",
+        "name": "Zee Business (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",

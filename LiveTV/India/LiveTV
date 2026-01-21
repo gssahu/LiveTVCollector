@@ -612,6 +612,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Bangla +",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Dhoom Music",
     "type": "Kolkata Bangla Music",
     "url": "https://cdn-1.pishow.tv/live/1456/1456_1.m3u8",
@@ -1082,12 +1088,6 @@
   {
     "name": "HBO2",
     "type": "",
-    "url": "http://200.80.230.124:8000/play/a06q/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HBO2",
-    "type": "",
     "url": "http://185.18.56.26:8888/hbo2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -1482,6 +1482,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Cartoon Network Hindi",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "দূরন্ত টিভি",
     "type": "",
     "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
@@ -1635,6 +1641,12 @@
     "name": "🚨BPL 2026 🎯 📡 Fancode",
     "type": "Cricket 🏏",
     "url": "http://116.204.149.16/nagorik/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨 A SPORT HD 🚨📡📺",
+    "type": "Cricket 🏏",
+    "url": "http://poketporota.noobmaster.xyz:8080/ASPORTSHD/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2530,6 +2542,12 @@
     "type": "Infotainment Channels",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discovery",
+    "type": "Infotainment Channels",
+    "url": "http://stvlive.net:8080/discovery/index.m3u8",
+    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
     "name": "Colors HD",
@@ -5442,7 +5460,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png"
   },
   {
-    "name": "Zee Business (720p)",
+    "name": "Zee Business (576p)",
     "type": "Business",
     "url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"
