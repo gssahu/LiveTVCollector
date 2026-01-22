@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-22 07:42:35",
+  "date": "2026-01-22 14:10:13",
   "channels": {
     "Religious": [
       {
@@ -1682,6 +1682,13 @@
         "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
       },
       {
+        "name": "KVEA-DT1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://104.238.205.28:9090/278661_.m3u8"
+      },
+      {
         "name": "KYOU-DT2 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
@@ -2079,6 +2086,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://link.frontlayer.com/services/hls2/fl823467/index.m3u8"
+      },
+      {
+        "name": "Telemundo",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8"
       },
       {
         "name": "Telemundo Al Dia",
@@ -3154,7 +3168,7 @@
       },
       {
         "name": "BeIN SPORTS XTRA (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/uJosqHh.png",
+        "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8"
@@ -12615,6 +12629,13 @@
         "url": "https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8"
       },
       {
+        "name": "WKTB-CD2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://104.238.205.28:9090/278659_.m3u8"
+      },
+      {
         "name": "WLNG Radio (410p) [Not 24/7]",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Undefined",
@@ -12664,11 +12685,11 @@
         "url": "https://e5.thetvapp.to/hls/WNET/index.m3u8"
       },
       {
-        "name": "WNJU-DT1 (1080p) [Not 24/7]",
+        "name": "WNJU-DT1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tvpass.org/live/TelemundoEast/hd"
+        "url": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts"
       },
       {
         "name": "WNYW-DT1 (1080p)",

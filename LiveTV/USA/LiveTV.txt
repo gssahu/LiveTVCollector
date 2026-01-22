@@ -11073,6 +11073,11 @@ URL: https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: KVEA-DT1
+URL: http://104.238.205.28:9090/278661_.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: KYOU-DT2 (720p)
 URL: https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
@@ -11356,6 +11361,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Telemasters TV (720p)
 URL: https://link.frontlayer.com/services/hls2/fl823467/index.m3u8
 Logo: https://i.imgur.com/grDBcTs.jpg
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Telemundo
+URL: http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Telemundo Al Dia
@@ -27322,7 +27332,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BeIN SPORTS XTRA (1080p) [Geo-blocked]
 URL: https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-Logo: https://i.imgur.com/uJosqHh.png
+Logo: https://i.ibb.co/HT49GPmB/XTRA-2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
@@ -30408,6 +30418,11 @@ URL: https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/512px-WKRN-TV_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: WKTB-CD2
+URL: http://104.238.205.28:9090/278659_.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: WLNG Radio (410p) [Not 24/7]
 URL: http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -30443,8 +30458,8 @@ URL: https://e5.thetvapp.to/hls/WNET/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WNJU-DT1 (1080p) [Not 24/7]
-URL: https://tvpass.org/live/TelemundoEast/hd
+Name: WNJU-DT1
+URL: http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
