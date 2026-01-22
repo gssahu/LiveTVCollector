@@ -366,6 +366,18 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
   },
   {
+    "name": "ATN Bangla UK",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },
+  {
+    "name": "NTV UK",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"
+  },
+  {
     "name": "Deepto TV",
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
@@ -376,6 +388,12 @@
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
+  },
+  {
+    "name": "Green TV",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
   },
   {
     "name": "Channel S UK HD",
@@ -390,28 +408,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel S HD",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://i.ibb.co/QmPPKgg/20240826-231747.png"
-  },
-  {
-    "name": "Channel S UK",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://i.ibb.co/QmPPKgg/20240826-231747.png"
-  },
-  {
     "name": "BONGO DRAMAS",
     "type": "Bangla",
     "url": "https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas",
     "img": "https://i.ibb.co.com/4VtHQpf/20240907-023221.png"
-  },
-  {
-    "name": "Jago News 24",
-    "type": "Jagobd",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"
   },
   {
     "name": "ATN Music",
@@ -423,12 +423,6 @@
     "name": "RTV Music",
     "type": "Bangla Music",
     "url": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Music Bangla",
-    "type": "Bangla Music",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -462,12 +456,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
@@ -486,28 +474,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Islam bangla",
-    "type": "Islamic",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "AL SUNNAH AL NABAWIYAH TV",
-    "type": "Islamic",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Makka live",
-    "type": "Islamic",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Movie Bangla",
     "type": "Bangla Movies",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Amar Bangla",
+    "type": "Bangla Movies",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png"
   },
   {
     "name": "Gopal Bhar",
@@ -810,12 +786,6 @@
     "img": "https://i.imgur.com/FtRT73R.png"
   },
   {
-    "name": "Discovery UK",
-    "type": "Information",
-    "url": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
-  },
-  {
     "name": "Nat Geo HD",
     "type": "Information",
     "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
@@ -873,6 +843,12 @@
     "name": "Food Network",
     "type": "Information",
     "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discover Pakistan TV",
+    "type": "Information",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1028,6 +1004,12 @@
   {
     "name": "HBO2",
     "type": "",
+    "url": "http://200.80.230.124:8000/play/a06q/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "HBO2",
+    "type": "",
     "url": "http://185.18.56.26:8888/hbo2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -1035,12 +1017,6 @@
     "name": "HBO3",
     "type": "",
     "url": "http://185.18.56.26:8888/hbo3/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HBO FAMILY",
-    "type": "",
-    "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1134,6 +1110,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "START WORLD",
+    "type": "",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "START AIR",
+    "type": "",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "NEWS18 INDIA",
     "type": "",
     "url": "http://103.140.254.2:3500/live/530.m3u8",
@@ -1182,6 +1170,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ARY DIGITAL",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03p/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Play HD",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03c/index.m3u8",
@@ -1224,6 +1218,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ZEE ANMOL",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04a/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "A plus",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03l/index.m3u8",
@@ -1242,9 +1242,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "DISCOVERY TURBO",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DISCOVERY SCIENCE",
     "type": "",
     "url": "http://103.140.254.2:3500/live/568.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "National Geographic",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1386,15 +1398,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "US-BD Journal 24 TV",
+    "name": "Cartoon Network Hindi",
     "type": "",
-    "url": "http://208.86.19.13:81/510.stream/index.m3u8?",
+    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Histoire HD",
+    "name": "দূরন্ত টিভি",
     "type": "",
-    "url": "http://151.80.18.177:86/Histoire/index.m3u8",
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
+  },
+  {
+    "name": "US-BD Journal 24 TV",
+    "type": "",
+    "url": "http://208.86.19.13:81/510.stream/index.m3u8?",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1476,10 +1494,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "GAZI TV",
-    "type": "Live Tv",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"
+    "name": "AL SUNNAH AL NABAWIYAH TV",
+    "type": "Islamic",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Makka live",
+    "type": "Islamic",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "COLORS BANGLA",
@@ -1491,6 +1515,12 @@
     "name": "DIPPTO",
     "type": "Live Tv",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ETV TV",
+    "type": "Live Tv",
+    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1533,6 +1563,12 @@
     "name": "🚨BPL 2026 🎯 📡 Fancode",
     "type": "Cricket 🏏",
     "url": "http://116.204.149.16/nagorik/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1653,6 +1689,12 @@
     "name": "Sharjah Sports 🎯",
     "type": "Football",
     "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein Sports 1 True Vision 🎯",
+    "type": "Football",
+    "url": "https://ww.dooballfree.vip/live/bein1/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2337,6 +2379,12 @@
     "name": "Sochi 24 HD 🇷🇺",
     "type": "Infotainment Channels",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discovery Channel",
+    "type": "Infotainment Channels",
+    "url": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3069,6 +3117,12 @@
     "name": "Breaking News",
     "type": "NEWS INTERNASIONAL",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CGTN",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://0472.org/hls/cgtn.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
