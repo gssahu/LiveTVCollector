@@ -2,3 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://ww.dooballfree.vip/live/dazn2/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1282527,RESOLUTION=960x540
+https://ww.dooballfree.vip/live/dazn2/chunks.m3u8
