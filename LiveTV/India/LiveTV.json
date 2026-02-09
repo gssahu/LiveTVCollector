@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09 06:45:13",
+  "date": "2026-02-09 14:08:50",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -254,6 +254,15 @@
         "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8"
       }
     ],
+    "ICC World Cup 2026": [
+      {
+        "name": "ICC World Cup 2026",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
+        "group": "ICC World Cup 2026",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
+      }
+    ],
     "Live Sports": [
       {
         "name": "Live Sports",
@@ -319,13 +328,6 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
-      },
-      {
-        "name": "Nagorik TV",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Green TV",
@@ -409,6 +411,13 @@
         "group": "Bangla Music",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Music Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangla Music",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Bengali Beats",
@@ -656,13 +665,6 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8"
-      },
-      {
-        "name": "Zee Anmol Cinema 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
       },
       {
         "name": "B4U Movies",
@@ -990,6 +992,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a04c/index.m3u8"
+      },
+      {
+        "name": "HBO FAMILY",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8"
       },
       {
         "name": "LOTUS MACAU",
@@ -1377,6 +1386,13 @@
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
+        "name": "Cartoon Network Hindi",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
+      },
+      {
         "name": "দূরন্ত টিভি",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "",
@@ -1581,6 +1597,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      },
+      {
+        "name": "Jio SPORT HD 🚨📡📺 🚨",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
       },
       {
         "name": "Lemar AGF",
