@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-12 06:44:17",
+  "date": "2026-02-12 14:04:22",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -1105,6 +1105,13 @@
         "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
       },
       {
+        "name": "DISCOVERY TURBO",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
+      },
+      {
         "name": "National Geographic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1138,13 +1145,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
-      },
-      {
-        "name": "Padma Tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
       },
       {
         "name": "ENTER10 BANGLA",
@@ -1500,6 +1500,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      },
+      {
+        "name": "Jio SPORT HD 🚨📡📺 🚨",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
       },
       {
         "name": "Lemar AGF",
@@ -2054,6 +2061,13 @@
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
       },
       {
+        "name": "pcv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangladeshi 🇧🇩",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+      },
+      {
         "name": "24/7 Shinchan",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Bangladeshi 🇧🇩",
@@ -2068,13 +2082,6 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
       },
       {
         "name": "Duck TV",
