@@ -49,11 +49,6 @@ URL: http://epiconvh.akamaized.net/live/epic/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: ARY MUSIK
-URL: http://163.61.227.29:8000/play/a03r/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: ZEE ANMOL CINEMA
 URL: http://163.61.227.29:8000/play/a04j/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -181,11 +176,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Discover Pakistan
 URL: http://163.61.227.29:8000/play/a03b/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: DISCOVERY
-URL: http://163.61.227.29:8000/play/a01i/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -326,11 +316,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: ADULT LIVE
-Name: DORACEL TV (USA)
-URL: https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
-Logo:  
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
 Name: PRONPROS (USA)
 URL: http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -338,21 +323,6 @@ Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/l
 --------------------------------------------------
 Name: PRIVATE (USA)
 URL: http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
-Name: HOTTEST (USA)
-URL: http://67.220.85.156:14880/
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
-Name: X4 (USA)
-URL: http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215650
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
-Name: X4 (USA)
-URL: http://206.212.244.47:8080/5Xchzg/411017/215688
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
@@ -587,11 +557,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Star Sports 1 T20 World Cup 26  📺
 URL: http://103.229.254.25:7001/play/a0dn/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Willow Cricket T20 World Cup
-URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1885,11 +1850,6 @@ URL: https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Cartoon Network
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Duck TV
 URL: https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2041,11 +2001,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Live Sports
 URL: http://163.61.227.29:8000/play/a05l/index.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Live Sports
-URL: https://falconftp.noobmaster.xyz/SONYSPORTS3HD/tracks-v1a1/mono.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -2581,11 +2536,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3732,6 +3682,11 @@ URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: God TV
 URL: https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4086,18 +4041,13 @@ URL: http://ahostingportal.com:8000/62664054820/5271593547/3019
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
-Name: USTAV PLUS (UK)
-URL: http://ahostingportal.com:8000/62664054820/5271593547/2818
+Name: ZEE CINEMA HD (ASIA)
+URL: https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
 
 Group: Sports
-Name: DD Sports 2.0
-URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: RTA Sports
 URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4132,6 +4082,21 @@ Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/l
 --------------------------------------------------
 Name: ZEE NEWS (IND)
 URL: https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+Logo:  
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: DD ASSAM (IND)
+URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+Logo:  
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: DD NATIONAL HD (IND)
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+Logo:  
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: DD SPORTS 2.0 (IND)
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
@@ -4190,11 +4155,6 @@ URL: https://livelegitpro.in/hls2/newstime/index.m3u8
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
-Name: CARTOON NETWORK (IND)
-URL: https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-Logo:  
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
 Name: SHEMAROO TV (IND)
 URL: https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 Logo:  
@@ -4205,8 +4165,8 @@ URL: https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
-Name: BBC WORLD NEWS (IND)
-URL: http://193.46.58.239:8080/BBCWorldNewsHD/index.m3u8
+Name: ATRANGII (IND)
+URL: https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 Logo:  
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
