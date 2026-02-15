@@ -200,12 +200,6 @@
   {
     "name": "ICC World Cup 2026",
     "type": "ICC World Cup 2026",
-    "url": "http://103.151.61.12/T-Sports/tracks-v1a1/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
-  },
-  {
-    "name": "ICC World Cup 2026",
-    "type": "ICC World Cup 2026",
     "url": "http://103.151.61.12/NAGORIK_TV-2/video.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
   },
@@ -224,14 +218,14 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
-    "url": "https://starsportshindiii.pages.dev/720p.m3u8",
+    "url": "https://falconftp.noobmaster.xyz/SONYSPORTS3HD/tracks-v1a1/mono.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
-    "name": "BTV World",
-    "type": "Bangla",
-    "url": "http://103.230.105.252:1935/live/btv/manifest.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
+    "name": "Live Sports",
+    "type": "Live Sports",
+    "url": "https://starsportshindiii.pages.dev/720p.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
     "name": "ATN Bangla UK",
@@ -654,12 +648,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Pogo",
-    "type": "KIDS",
-    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -747,6 +735,12 @@
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ARY MUSIK",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -903,6 +897,12 @@
     "name": "Discover Pakistan",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03b/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DISCOVERY",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1116,12 +1116,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "France 24",
-    "type": "English News",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"
-  },
-  {
     "name": "RT Now",
     "type": "English News",
     "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
@@ -1221,6 +1215,12 @@
     "name": "Star Sports 1 T20 World Cup 26  📺",
     "type": "Cricket 🏏",
     "url": "http://103.229.254.25:7001/play/a0dn/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Willow Cricket T20 World Cup",
+    "type": "Cricket 🏏",
+    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1626,6 +1626,12 @@
     "img": "https://i.imgur.com/yOPB7JB.png"
   },
   {
+    "name": "Suriyan TV (576p)",
+    "type": "Movies",
+    "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png"
+  },
+  {
     "name": "Thalaa TV (1080p)",
     "type": "Movies",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
@@ -1858,12 +1864,6 @@
     "type": "Infotainment Channels",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Discovery",
-    "type": "Infotainment Channels",
-    "url": "http://stvlive.net:8080/discovery/index.m3u8",
-    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
     "name": "Amazon SAT",
