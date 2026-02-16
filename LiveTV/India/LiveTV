@@ -248,6 +248,12 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
+    "url": "https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
+    "name": "Live Sports",
+    "type": "Live Sports",
     "url": "https://starsportshindiii.pages.dev/720p.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
@@ -264,12 +270,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"
   },
   {
-    "name": "RTV",
-    "type": "Bangla",
-    "url": "https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"
-  },
-  {
     "name": "Deepto TV",
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
@@ -280,24 +280,6 @@
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
-  },
-  {
-    "name": "Channel 9",
-    "type": "Bangla",
-    "url": "https://tvsen6.aynaott.com/channel9/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"
-  },
-  {
-    "name": "Global TV",
-    "type": "Bangla",
-    "url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
-  },
-  {
-    "name": "Green TV",
-    "type": "Bangla",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
   },
   {
     "name": "Channel S UK HD",
@@ -330,6 +312,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ATN Music",
+    "type": "Bangla Music",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"
+  },
+  {
     "name": "Peace TV Bangla",
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
@@ -346,12 +334,6 @@
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
-    "name": "Madani TV",
-    "type": "Relagion Channel",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
     "name": "Makkah TV",
@@ -478,12 +460,6 @@
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png"
-  },
-  {
-    "name": "R Bangla",
-    "type": "Indian Bangla News",
-    "url": "https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "NK",
@@ -732,6 +708,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Pogo",
+    "type": "KIDS",
+    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -765,354 +747,6 @@
     "name": "YRF Music HD",
     "type": "",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Rongeen Tv",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/RongeenTV/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CNN",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC NEWS",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/bbcnews/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sadhna Prime News",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "News 24",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/News24/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "R Bangla",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/R_Bangla/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports 2 HD",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports 1 HD",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Ten  1 HD",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/snTn1HD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T Sports",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Massranga Tv",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Deepto Tv",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NTV",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ATN BANGLA",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "RTV HD",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NTV BD",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/ntvbd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ASIAN TV",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Ananda Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/anandatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SA Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/satv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Desh Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bagnla Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Jamuna Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Nexus Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BTV HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/btvhd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BTV NEWS",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BTV WORLD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/btv_world/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BTV CHATTRAGRAM",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/btvctg/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MY TV",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Atn News HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/atnnews/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Etv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/etv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DURONTO TV",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/durontotv-live/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Time TV",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/timetv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "GAZI TV",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Green TV",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/GreenTvHD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bijoy Tv HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Mohona Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Boushakhi Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Ekhon Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Banglavishion",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel I",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/channeli/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Independent Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/independenttv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DBC News",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel 24",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/channel24/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "News 24",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/news24/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Ekattor Tv",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Somoy News",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "STAR JALSHA HD",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/sjhdbd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZEE Bangla HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Colors Bangla HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/ColorsBangla/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SONY TV HD",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "STAR PLUS HD",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/sphdbd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "COLORS HD",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/ColorsHD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Dhamaka Movies",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "B4u HITZ",
-    "type": "",
-    "url": "https://tvsen5.aynaott.com/B4UHitz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "B4U Kadak",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Goldmines Bollywood",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Goldmines",
-    "type": "",
-    "url": "https://tvsen6.aynaott.com/Goldmines/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Madani Tv",
-    "type": "",
-    "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1644,18 +1278,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Ten Sports",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Geo Super",
     "type": "Cricket 🏏",
     "url": "https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8",
@@ -1664,13 +1286,7 @@
   {
     "name": "Fox Cricket",
     "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T Sports T20 World Cup",
-    "type": "Cricket 🏏",
-    "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8",
+    "url": "https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3147,6 +2763,102 @@
     "name": "News Max 2",
     "type": "NEWS INTERNASIONAL",
     "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 3",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 4",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 5",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 6",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 7",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports Premire League",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky sports 9",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports 1 English",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports 1 hindy",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports 3",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports tamil",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports select 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star sports select 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
