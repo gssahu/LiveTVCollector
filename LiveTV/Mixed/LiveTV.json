@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-16 14:03:20",
+  "date": "2026-02-16 21:59:51",
   "channels": {
     "film": [
       {
@@ -573,7 +573,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZThiMGVlZjEtNjljZC00ODRkLTkyNjMtYzc5YzJjYzdlOGJkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZTA3OTkxNTUtYWQ2My00NDljLTgyMzEtYjg5YmEyOGFjNTVmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -608,7 +608,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiM2Q4NmI0YzItOTk1MC00YzZmLWI3NWEtMDAxMDExYjUxZWQ1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmYxYzg5MjQtY2E3Mi00NWI3LWJkMGItMDI0YThkNjQ0ODI3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -2959,48 +2959,6 @@
         "url": "http://youtube"
       },
       {
-        "name": "Unnamed Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/410wc8krnY40R9Ss9IVwQfYjDuqmmyB2I9rkxngYQmWbk=1tsj/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=d0311041-ca23-4549-927e-117175c3cee5"
-      },
-      {
-        "name": "Unnamed Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd"
-      },
-      {
-        "name": "Unnamed Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd"
-      },
-      {
-        "name": "Unnamed Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd"
-      },
-      {
-        "name": "ASTRO SPORTS PLUS",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd"
-      },
-      {
-        "name": "ASTRO SPORTS UHD",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd"
-      },
-      {
         "name": "RADIO BRUNEI🇧🇳",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png",
         "group": "Uncategorized",
@@ -3092,6 +3050,48 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41fra2nAIuId__HUIxWQXoIvHBjwDQZ7vdAry2U_Sb0EQ=FdG5/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=767c3c4e-60e9-4fde-8a9a-769372dcbcf9"
+      },
+      {
+        "name": "ASTRO PREMIER LEAGUE 2",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/410wc8krnY40R9Ss9IVwQfYjDuqmmyB2I9rkxngYQmWbk=1tsj/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=d0311041-ca23-4549-927e-117175c3cee5"
+      },
+      {
+        "name": "ASTRO PREMIER LEAGUE 3",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd"
+      },
+      {
+        "name": "ASTRO PREMIER LEAGUE 4",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd"
+      },
+      {
+        "name": "ASTRO PREMIER LEAGUE 5",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd"
+      },
+      {
+        "name": "ASTRO SPORTS PLUS",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd"
+      },
+      {
+        "name": "ASTRO SPORTS UHD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd"
       },
       {
         "name": "BEIN SPORTS",
