@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-17 14:03:43",
+  "date": "2026-02-17 22:15:12",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -257,6 +257,34 @@
         "group": "ADULT LIVE",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8"
+      },
+      {
+        "name": "X4 (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215686"
+      },
+      {
+        "name": "EROLUXE GAYS (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1691.m3u8"
+      },
+      {
+        "name": "EROLUXE BLOWJOB (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1687.m3u8"
+      },
+      {
+        "name": "EROLUXE ORGY (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://u.vipl.one/high/hc6s5fzmde/1699.m3u8"
       }
     ],
     "Promo": [
@@ -601,6 +629,13 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
+      },
+      {
+        "name": "Star Gold",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "B4U Movies",
@@ -1224,20 +1259,6 @@
         "url": "http://163.61.227.29:8000/play/a03b/index.m3u8"
       },
       {
-        "name": "DISCOVERY",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
-      },
-      {
-        "name": "DISCOVERY TURBO",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
-      },
-      {
         "name": "National Geographic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1292,13 +1313,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a05k/index.m3u8"
-      },
-      {
-        "name": "Hum Masala",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a02g/index.m3u8"
       },
       {
         "name": "The Q Kahaniyan",
@@ -1376,13 +1390,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03w/index.m3u8"
-      },
-      {
-        "name": "GUBBARE",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
       },
       {
         "name": "KIDS ZONE",
@@ -1642,13 +1649,6 @@
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
       },
       {
-        "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
-      },
-      {
         "name": "Lemar AGF",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1740,13 +1740,6 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
-      },
-      {
-        "name": "Shol Sports",
-        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
-        "group": "Football",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8"
       },
       {
         "name": "PSN 1 Sports",
@@ -2348,6 +2341,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://161.248.38.40:8000/play/a068/index.m3u8"
+      },
+      {
+        "name": "Gubbare (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
       },
       {
         "name": "Nick Jr. (576p)",

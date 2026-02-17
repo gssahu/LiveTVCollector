@@ -216,6 +216,30 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "X4 (USA)",
+    "type": "ADULT LIVE",
+    "url": "http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215686",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "EROLUXE GAYS (USA)",
+    "type": "ADULT LIVE",
+    "url": "http://u.vipl.one/high/hc6s5fzmde/1691.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "EROLUXE BLOWJOB (USA)",
+    "type": "ADULT LIVE",
+    "url": "http://u.vipl.one/high/hc6s5fzmde/1687.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "EROLUXE ORGY (USA)",
+    "type": "ADULT LIVE",
+    "url": "http://u.vipl.one/high/hc6s5fzmde/1699.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "FalconCast",
     "type": "Promo",
     "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8",
@@ -490,6 +514,12 @@
     "type": "Hindi Movies",
     "url": "http://110.39.27.47:8001/play/a03w/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"
+  },
+  {
+    "name": "Star Gold",
+    "type": "Hindi Movies",
+    "url": "http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"
   },
   {
     "name": "B4U Movies",
@@ -1014,18 +1044,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "DISCOVERY",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DISCOVERY TURBO",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "National Geographic",
     "type": "",
     "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
@@ -1071,12 +1089,6 @@
     "name": "PTV HOME",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a05k/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Hum Masala",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a02g/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1143,12 +1155,6 @@
     "name": "PLANET FUN",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03w/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "GUBBARE",
-    "type": "",
-    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1362,12 +1368,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-    "type": "Cricket 🏏",
-    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Lemar AGF",
     "type": "Cricket 🏏",
     "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
@@ -1444,12 +1444,6 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
-  },
-  {
-    "name": "Shol Sports",
-    "type": "Football",
-    "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
-    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -1960,6 +1954,12 @@
     "type": "Kids",
     "url": "http://161.248.38.40:8000/play/a068/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Gubbare (1080p)",
+    "type": "Kids",
+    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
   },
   {
     "name": "Nick Jr. (576p)",
