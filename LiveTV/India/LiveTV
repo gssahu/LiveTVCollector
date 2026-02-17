@@ -224,19 +224,13 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
-    "url": "https://starsportshindiii.pages.dev/index.m3u8",
+    "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
     "name": "Live Sports",
     "type": "Live Sports",
-    "url": "http://163.61.227.29:8000/play/a05l/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
-    "name": "Live Sports",
-    "type": "Live Sports",
-    "url": "https://starsportshindiii.pages.dev/720p.m3u8",
+    "url": "http://103.229.254.25:7001/play/a087/index.m3u8#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10\"group-title=\"Live Sports\",Live Sports",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
@@ -244,6 +238,12 @@
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },
+  {
+    "name": "Maasranga TV",
+    "type": "Bangla",
+    "url": "http://103.229.254.25:7001/play/a05q/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"
   },
   {
     "name": "NTV UK",
@@ -328,12 +328,6 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-  {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "EWTN TV",
@@ -423,6 +417,12 @@
     "name": "ABP Ananda",
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "type": "Indian Bangla News",
+    "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -540,6 +540,24 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Sony Sports Ten 1 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"
+  },
+  {
+    "name": "Sony Sports Ten 2 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0eg/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"
+  },
+  {
     "name": "RTA Sports",
     "type": "Sports",
     "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
@@ -600,10 +618,28 @@
     "img": "https://i.imgur.com/eWPoUxB.png"
   },
   {
+    "name": "Discovery Bangla",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
+  },
+  {
+    "name": "Animal Planet HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
+  },
+  {
     "name": "Nat Geo HD",
     "type": "Information",
-    "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
+    "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
+    "name": "Sony BBC Earth",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
   },
   {
     "name": "BBC Earth",
@@ -622,6 +658,12 @@
     "type": "Information",
     "url": "http://65.108.239.207/bbc/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "History TV 18 HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
+    "img": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png"
   },
   {
     "name": "Travel XP English EU",
@@ -726,6 +768,18 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
   },
   {
+    "name": "Star Movies HD",
+    "type": "English Movies",
+    "url": "http://103.229.254.25:7001/play/a02w/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"
+  },
+  {
+    "name": "Star Movies Select HD",
+    "type": "English Movies",
+    "url": "http://103.229.254.25:7001/play/a02v/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"
+  },
+  {
     "name": "Lotus",
     "type": "English Movies",
     "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8",
@@ -753,6 +807,12 @@
     "name": "FAST SPORTS",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PTV SPORTS HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a05l/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -918,12 +978,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dangal",
-    "type": "",
-    "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Dangal 2",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a04b/index.m3u8",
@@ -972,15 +1026,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "5 NEWS HD",
+    "name": "National Geographic",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
+    "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Zee 24 Ghanta",
+    "name": "National Geographic",
     "type": "",
-    "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "5 NEWS HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1104,12 +1164,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
   },
   {
-    "name": "US-BD Journal 24 TV",
-    "type": "",
-    "url": "http://208.86.19.13:81/510.stream/index.m3u8?",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Histoire HD",
     "type": "",
     "url": "http://151.80.18.177:86/Histoire/index.m3u8",
@@ -1143,6 +1197,12 @@
     "name": "CNN",
     "type": "English News",
     "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CGTN News",
+    "type": "English News",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1248,6 +1308,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Sky Sport Mian Event",
+    "type": "Cricket 🏏",
+    "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Geo Super",
     "type": "Cricket 🏏",
     "url": "https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8",
@@ -1293,6 +1359,12 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2640,12 +2712,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DW English",
     "type": "NEWS INTERNASIONAL",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
@@ -2823,6 +2889,228 @@
     "name": "Star sports select 2",
     "type": "Tigerhub-bd 🇧🇩 🐯",
     "url": "https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ten Sports",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PTV Sports",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Fox Cricket",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TNT Sports 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TNT Sports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TNT Sports 3",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-3/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TNT Sports 4",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-4/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Skysports premire league",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Premire-League/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Skysports Football",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Football/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Skysports F1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-F1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Skysports Raceing",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Raceing/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Skysports Golf",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Golf/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Liverpool Football Club TV",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Lfc/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MU Tv",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/MU-tv/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Real Madrid Tv",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/RM-tv/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Premire Sports 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Premire sports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 3",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-3/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 4",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-4/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 5",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-5/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 6",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-6/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 8",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-8/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports 9",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-9/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein sports Extra",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-Extra/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Al Kas 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Al Kas 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Al Kas 3",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-3/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Al Kas 4",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-4/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Eurosports 1",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosports-1/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Eurosports 2",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosportss-2/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "M+ Laliga",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DAZN Laliga",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Laliga Tv",
+    "type": "Tigerhub-bd 🇧🇩 🐯",
+    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Laliga-tv/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4894,6 +5182,12 @@
     "type": "General",
     "url": "http://103.78.149.54:8000/play/a01g/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "Dangal TV (720p)",
+    "type": "General",
+    "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png"
   },
   {
     "name": "DD Arunprabha (576p)",

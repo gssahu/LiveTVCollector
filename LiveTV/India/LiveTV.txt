@@ -14,6 +14,11 @@ URL: http://163.61.227.29:8000/play/a001/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: PTV SPORTS HD
+URL: http://163.61.227.29:8000/play/a05l/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: ESPN 7
 URL: http://201.230.121.186:8000/play/a0dz/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -149,11 +154,6 @@ URL: http://163.61.227.29:8000/play/a02y/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Dangal
-URL: https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Dangal 2
 URL: http://163.61.227.29:8000/play/a04b/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -194,13 +194,18 @@ URL: http://163.61.227.29:8000/play/a01w/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: 5 NEWS HD
-URL: http://163.61.227.29:8000/play/a03m/index.m3u8
+Name: National Geographic
+URL: http://151.80.18.177:86/National_Geo_HD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Zee 24 Ghanta
-URL: https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+Name: National Geographic
+URL: http://163.61.227.29:8000/play/a01d/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: 5 NEWS HD
+URL: http://163.61.227.29:8000/play/a03m/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -304,11 +309,6 @@ URL: https://tvsen4.aynaott.com/durontotv/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: US-BD Journal 24 TV
-URL: http://208.86.19.13:81/510.stream/index.m3u8?
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Histoire HD
 URL: http://151.80.18.177:86/Histoire/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -345,6 +345,11 @@ Group: Bangla
 Name: ATN Bangla UK
 URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Maasranga TV
+URL: http://103.229.254.25:7001/play/a05q/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: NTV UK
@@ -559,6 +564,11 @@ URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Sky Sport Mian Event
+URL: https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Geo Super
 URL: https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -596,6 +606,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: 🚨 Willow USA SPORT HD 🚨📡📺
+URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -752,6 +767,16 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: English Movies
+Name: Star Movies HD
+URL: http://103.229.254.25:7001/play/a02w/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Movies Select HD
+URL: http://103.229.254.25:7001/play/a02v/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Lotus
 URL: https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -766,6 +791,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Group: English News
 Name: CNN
 URL: https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: CGTN News
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1401,6 +1431,11 @@ URL: http://103.78.149.54:8000/play/a01g/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Dangal TV (720p)
+URL: https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: DD Arunprabha (576p)
 URL: http://103.78.149.54:8000/play/a034/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png
@@ -1809,6 +1844,11 @@ URL: https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg0
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Zee 24 Ghanta
+URL: https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: News18 Bangla News
 URL: https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 Logo: https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png
@@ -1841,9 +1881,24 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Information
+Name: Discovery Bangla
+URL: http://103.229.254.25:7001/play/a03g/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Animal Planet HD
+URL: http://103.229.254.25:7001/play/a0dr/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Nat Geo HD
-URL: http://151.80.18.177:86/National_Geo_HD/index.m3u8
+URL: http://103.229.254.25:7001/play/a038/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony BBC Earth
+URL: http://103.229.254.25:7001/play/a031/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: BBC Earth
@@ -1859,6 +1914,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: BBC Earth
 URL: http://65.108.239.207/bbc/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: History TV 18 HD
+URL: http://103.229.254.25:7001/play/a02z/index.m3u8
+Logo: https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Travel XP English EU
@@ -2119,17 +2179,12 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 
 Group: Live Sports
 Name: Live Sports
-URL: https://starsportshindiii.pages.dev/index.m3u8
+URL: http://103.229.254.25:7001/play/a087/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Live Sports
-URL: http://163.61.227.29:8000/play/a05l/index.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Live Sports
-URL: https://starsportshindiii.pages.dev/720p.m3u8
+URL: http://103.229.254.25:7001/play/a087/index.m3u8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -2715,11 +2770,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3866,11 +3916,6 @@ URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Makkah TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: EWTN TV
 URL: https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4249,6 +4294,21 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Sports
+Name: Sony Sports Ten 1 HD
+URL: http://103.229.254.25:7001/play/a0ee/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports Ten 2 HD
+URL: http://103.229.254.25:7001/play/a0ef/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports Ten 3 HD
+URL: http://103.229.254.25:7001/play/a0eg/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: RTA Sports
 URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4505,6 +4565,191 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Star sports select 2
 URL: https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Ten Sports
+URL: https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: PTV Sports
+URL: https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Fox Cricket
+URL: https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: TNT Sports 1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: TNT Sports 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: TNT Sports 3
+URL: https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-3/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: TNT Sports 4
+URL: https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-4/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: ESPN
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Espn/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: ESPN 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Espn-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Skysports premire league
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Premire-League/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Skysports Football
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Football/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Skysports F1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Skysports-F1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Skysports Raceing
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Raceing/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Skysports Golf
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Golf/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Liverpool Football Club TV
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Lfc/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: MU Tv
+URL: https://tigerhub-bd.vercel.app/Sports-zone/MU-tv/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Real Madrid Tv
+URL: https://tigerhub-bd.vercel.app/Sports-zone/RM-tv/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Premire Sports 1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Premire sports 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 3
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-3/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 4
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-4/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 5
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-5/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 6
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-6/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 8
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-8/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports 9
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-9/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Bein sports Extra
+URL: https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-Extra/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Al Kas 1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/AlKas-1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Al Kas 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/AlKas-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Al Kas 3
+URL: https://tigerhub-bd.vercel.app/Sports-zone/AlKas-3/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Al Kas 4
+URL: https://tigerhub-bd.vercel.app/Sports-zone/AlKas-4/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Eurosports 1
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Eurosports-1/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Eurosports 2
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Eurosportss-2/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: M+ Laliga
+URL: https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: DAZN Laliga
+URL: https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Laliga Tv
+URL: https://tigerhub-bd.vercel.app/Sports-zone/Laliga-tv/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
