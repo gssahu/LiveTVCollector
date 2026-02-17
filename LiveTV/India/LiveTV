@@ -222,12 +222,6 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
-    "name": "ICC World Cup 2026",
-    "type": "ICC World Cup 2026",
-    "url": "http://103.151.61.12/NAGORIK_TV-2/video.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
-  },
-  {
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "https://starsportshindiii.pages.dev/index.m3u8",
@@ -804,6 +798,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ARY MUSIK",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "ZEE ANMOL CINEMA",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a04j/index.m3u8",
@@ -972,12 +972,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "National Geographic",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "5 NEWS HD",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
@@ -1104,12 +1098,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Cartoon Network Hindi",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "দূরন্ত টিভি",
     "type": "",
     "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
@@ -1155,12 +1143,6 @@
     "name": "CNN",
     "type": "English News",
     "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CGTN News",
-    "type": "English News",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1851,6 +1833,12 @@
     "name": "BBC Cbeebies",
     "type": "Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cartoon Network",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3714,9 +3702,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png"
   },
   {
-    "name": "Public TV (720p)",
+    "name": "Public TV (576p) [Geo-blocked]",
     "type": "News",
-    "url": "https://cdn-3.pishow.tv/live/439/master.m3u8",
+    "url": "https://livestreampublictv.sunnxt.com/publictv/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png"
   },
   {
@@ -5373,6 +5361,12 @@
     "name": "Travelxp (720p)",
     "type": "Travel",
     "url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
+    "type": "Travel",
+    "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
   },
   {
