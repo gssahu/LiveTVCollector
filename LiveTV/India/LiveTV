@@ -348,10 +348,10 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Madani TV",
+    "name": "Makkah TV",
     "type": "Relagion Channel",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "EWTN TV",
@@ -660,12 +660,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
   },
   {
-    "name": "Nat Geo HD",
-    "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
-  },
-  {
     "name": "Sony BBC Earth",
     "type": "Information",
     "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
@@ -772,6 +766,12 @@
     "type": "Documentary",
     "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Tom & Jarry",
+    "type": "KIDS",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "img": "h"
   },
   {
     "name": "Pogo",
@@ -1050,9 +1050,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "DISCOVERY",
+    "name": "DISCOVERY TURBO",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1179,12 +1179,6 @@
     "name": "KIDS ZONE",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network Hindi",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1338,6 +1332,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Azan TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
@@ -1404,12 +1404,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-    "type": "Cricket 🏏",
-    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Lemar AGF",
     "type": "Cricket 🏏",
     "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
@@ -1452,12 +1446,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Shoel Sports",
-    "type": "Football",
-    "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Astro SPORTS Primier",
     "type": "Football",
     "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
@@ -1467,12 +1455,6 @@
     "name": "ASTRO SPORTS PLUS",
     "type": "Football",
     "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NOW SPORTS PRIME",
-    "type": "Football",
-    "url": "http://hls.168.us.kg/u/630/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1492,12 +1474,6 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
-  },
-  {
-    "name": "Shol Sports",
-    "type": "Football",
-    "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
-    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -2040,9 +2016,9 @@
     "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
-    "name": "Madani Tv",
+    "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
