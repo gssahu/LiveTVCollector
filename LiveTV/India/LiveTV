@@ -582,12 +582,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sony Sports Ten 1 HD",
-    "type": "Sports",
-    "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"
-  },
-  {
     "name": "Sony Sports Ten 2 HD",
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
@@ -1074,15 +1068,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "National Geographic",
+    "name": "DISCOVERY TURBO",
     "type": "",
-    "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "National Geographic",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
+    "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1101,12 +1095,6 @@
     "name": "AAKASH AATH",
     "type": "",
     "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Padma Tv",
-    "type": "",
-    "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1350,19 +1338,13 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Azan TV 🎯 📡",
-    "type": "Cricket 🏏",
-    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
+    "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Star Sport 2 HD",
+    "name": "Star Sport 2 HD 🇮🇳",
     "type": "Cricket 🏏",
     "url": "http://103.99.249.139/starsport2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -1374,9 +1356,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "T Sports T20 World Cup",
+    "name": "T Sports T20 World Cup 🇧🇩🚹",
     "type": "Cricket 🏏",
     "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "T Sports 🇧🇩",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PTV Sports HD 🇵🇰",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Sports HD 🇵🇰",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Sports 1 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1389,12 +1395,6 @@
     "name": "Sky Cricket",
     "type": "Cricket 🏏",
     "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "🚨Sathiya TV Srilanka 📡📺",
-    "type": "Cricket 🏏",
-    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1468,12 +1468,6 @@
     "type": "Football",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
     "img": "https://i.ibb.co/BfM21nC/beinhaber.png"
-  },
-  {
-    "name": "A SPOR",
-    "type": "Football",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
-    "img": "https://i.ibb.co/xSjB51j/aspor.png"
   },
   {
     "name": "Shol Sports",

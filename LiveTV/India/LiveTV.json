@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-20 14:00:10",
+  "date": "2026-02-20 21:56:40",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -710,13 +710,6 @@
     ],
     "Sports": [
       {
-        "name": "Sony Sports Ten 1 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8"
-      },
-      {
         "name": "Sony Sports Ten 2 HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",
         "group": "Sports",
@@ -1294,18 +1287,18 @@
         "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
       },
       {
-        "name": "National Geographic",
+        "name": "DISCOVERY TURBO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
+        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
       },
       {
         "name": "National Geographic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
+        "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
       },
       {
         "name": "5 NEWS HD",
@@ -1327,13 +1320,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
-      },
-      {
-        "name": "Padma Tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
       },
       {
         "name": "ENTER10 BANGLA",
@@ -1628,21 +1614,14 @@
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
       },
       {
-        "name": "Azan TV 🎯 📡",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      },
-      {
-        "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
+        "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
-        "name": "Star Sport 2 HD",
+        "name": "Star Sport 2 HD 🇮🇳",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
@@ -1656,11 +1635,39 @@
         "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
       },
       {
-        "name": "T Sports T20 World Cup",
+        "name": "T Sports T20 World Cup 🇧🇩🚹",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8"
+      },
+      {
+        "name": "T Sports 🇧🇩",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1"
+      },
+      {
+        "name": "PTV Sports HD 🇵🇰",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92"
+      },
+      {
+        "name": "A Sports HD 🇵🇰",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88"
+      },
+      {
+        "name": "Star Sports 1 HD 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2"
       },
       {
         "name": "T Sports T20 World Cup 26 📺",
@@ -1675,13 +1682,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8"
-      },
-      {
-        "name": "🚨Sathiya TV Srilanka 📡📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
       },
       {
         "name": "🚨 Willow USA SPORT HD 🚨📡📺",
@@ -1768,13 +1768,6 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8"
-      },
-      {
-        "name": "A SPOR",
-        "logo": "https://i.ibb.co/xSjB51j/aspor.png",
-        "group": "Football",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
       },
       {
         "name": "Shol Sports",
