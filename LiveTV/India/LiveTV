@@ -246,6 +246,12 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
+    "name": "ICC World Cup 2026",
+    "type": "ICC World Cup 2026",
+    "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
+  },
+  {
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
@@ -286,6 +292,12 @@
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
+  },
+  {
+    "name": "Green TV",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
   },
   {
     "name": "Channel S UK HD",
@@ -340,6 +352,12 @@
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
+    "name": "Madani TV",
+    "type": "Relagion Channel",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
+    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
     "name": "Makkah TV",
@@ -780,12 +798,6 @@
     "img": "h"
   },
   {
-    "name": "Pogo",
-    "type": "KIDS",
-    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -972,12 +984,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "A2",
-    "type": "",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "ARY Zindagi",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
@@ -1152,6 +1158,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "SHOWBOX",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a045/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "SANGEET BANGLA",
     "type": "",
     "url": "https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8",
@@ -1186,6 +1198,18 @@
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cartoon Network Hindi",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "দূরন্ত টিভি",
+    "type": "",
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
   },
   {
     "name": "US-BD Journal 24 TV",
@@ -1326,6 +1350,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Azan TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
@@ -1353,6 +1383,12 @@
     "name": "T Sports T20 World Cup",
     "type": "Cricket 🏏",
     "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "T Sports T20 World Cup",
+    "type": "Cricket 🏏",
+    "url": "https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1389,6 +1425,12 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2013,6 +2055,12 @@
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Madani Tv",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2733,6 +2781,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4122,9 +4176,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Samay Kolkata (720p)",
+    "name": "Samay Kolkata (1080p)",
     "type": "News",
-    "url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8",
+    "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png"
   },
   {
@@ -4852,6 +4906,12 @@
     "type": "Religious",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8?ads.vf=zhqukBO16Si",
     "img": "https://i.imgur.com/WwRcpYj.png"
+  },
+  {
+    "name": "Life TV (720p)",
+    "type": "Religious",
+    "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+    "img": "https://i.ibb.co/v1C0bdR/logo-1.png"
   },
   {
     "name": "Madha TV (600p)",
