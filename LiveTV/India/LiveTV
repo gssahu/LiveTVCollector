@@ -246,12 +246,6 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
-    "name": "ICC World Cup 2026",
-    "type": "ICC World Cup 2026",
-    "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
-  },
-  {
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
@@ -798,6 +792,12 @@
     "img": "h"
   },
   {
+    "name": "Pogo",
+    "type": "KIDS",
+    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -984,6 +984,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "A2",
+    "type": "",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "ARY Zindagi",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
@@ -1065,12 +1071,6 @@
     "name": "DISCOVERY",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DISCOVERY TURBO",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1374,45 +1374,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Geo Super",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "T Sports T20 World Cup",
     "type": "Cricket 🏏",
     "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "T Sports T20 World Cup",
-    "type": "Cricket 🏏",
-    "url": "https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T20 World Cup 26 WiLLow",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T20 World Cup 26 Willow-Sports-Extra",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports-Extra/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "T Sports T20 World Cup 26 📺",
     "type": "Cricket 🏏",
     "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky Cricket",
-    "type": "Cricket 🏏",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2160,6 +2130,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Discovery",
+    "type": "Infotainment Channels",
+    "url": "http://stvlive.net:8080/discovery/index.m3u8",
+    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
+  },
+  {
     "name": "Amazon SAT",
     "type": "Infotainment Channels",
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
@@ -2784,12 +2760,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DW English",
     "type": "NEWS INTERNASIONAL",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
@@ -2877,324 +2847,6 @@
     "name": "News Max 2",
     "type": "NEWS INTERNASIONAL",
     "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 3",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 4",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 5",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 6",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 7",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports Premire League",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky sports 9",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports 1 English",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports 1 hindy",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports 3",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports tamil",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports select 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star sports select 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Ten Sports",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Fox Cricket",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT Sports 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT Sports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT Sports 3",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-3/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT Sports 4",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-4/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Skysports premire league",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Premire-League/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Skysports Football",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Football/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Skysports F1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-F1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Skysports Raceing",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Raceing/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Skysports Golf",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Golf/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Liverpool Football Club TV",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Lfc/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MU Tv",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/MU-tv/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Real Madrid Tv",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/RM-tv/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Premire Sports 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Premire sports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 3",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-3/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 4",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-4/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 5",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-5/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 6",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-6/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 8",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-8/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports 9",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-9/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein sports Extra",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-Extra/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Al Kas 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Al Kas 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Al Kas 3",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-3/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Al Kas 4",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-4/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Eurosports 1",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosports-1/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Eurosports 2",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosportss-2/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "M+ Laliga",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DAZN Laliga",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Laliga Tv",
-    "type": "Tigerhub-bd 🇧🇩 🐯",
-    "url": "https://tigerhub-bd.vercel.app/Sports-zone/Laliga-tv/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

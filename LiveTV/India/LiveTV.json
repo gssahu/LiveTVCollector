@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-20 06:40:26",
+  "date": "2026-02-20 14:00:10",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -294,15 +294,6 @@
         "group": "Promo",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8"
-      }
-    ],
-    "ICC World Cup 2026": [
-      {
-        "name": "ICC World Cup 2026",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
-        "group": "ICC World Cup 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8"
       }
     ],
     "Live Sports": [
@@ -970,6 +961,13 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
       },
       {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
+      },
+      {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "KIDS",
@@ -1191,6 +1189,13 @@
         "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
       },
       {
+        "name": "A2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8"
+      },
+      {
         "name": "ARY Zindagi",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1287,13 +1292,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
-      },
-      {
-        "name": "DISCOVERY TURBO",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
       },
       {
         "name": "National Geographic",
@@ -1658,13 +1656,6 @@
         "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
       },
       {
-        "name": "Geo Super",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
         "name": "T Sports T20 World Cup",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1672,39 +1663,11 @@
         "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8"
       },
       {
-        "name": "T Sports T20 World Cup",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8"
-      },
-      {
-        "name": "T20 World Cup 26 WiLLow",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "T20 World Cup 26 Willow-Sports-Extra",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports-Extra/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
         "name": "T Sports T20 World Cup 26 📺",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
-      },
-      {
-        "name": "Sky Cricket",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Sky Cricket",
@@ -2587,6 +2550,13 @@
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
       },
       {
+        "name": "Discovery",
+        "logo": "https://i.ibb.co/V2gtYfH/download-1.png",
+        "group": "Infotainment Channels",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://stvlive.net:8080/discovery/index.m3u8"
+      },
+      {
         "name": "Amazon SAT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Infotainment Channels",
@@ -3321,13 +3291,6 @@
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
       },
       {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
-      },
-      {
         "name": "DW English",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -3431,379 +3394,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
-      }
-    ],
-    "Tigerhub-bd 🇧🇩 🐯": [
-      {
-        "name": "Sky sports 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 5",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 6",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 7",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports Premire League",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Sky sports 9",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports 1 English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports 1 hindy",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports tamil",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports select 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Star sports select 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Ten Sports",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "PTV Sports",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Fox Cricket",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "TNT Sports 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "TNT Sports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "TNT Sports 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-3/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "TNT Sports 4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-4/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "ESPN",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "ESPN 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Espn-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Skysports premire league",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Premire-League/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Skysports Football",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Football/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Skysports F1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-F1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Skysports Raceing",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Raceing/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Skysports Golf",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Golf/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Liverpool Football Club TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Lfc/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "MU Tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/MU-tv/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Real Madrid Tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/RM-tv/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Premire Sports 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Premire sports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-3/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-4/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 5",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-5/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 6",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-6/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 8",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-8/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports 9",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-9/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Bein sports Extra",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-Extra/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Al Kas 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Al Kas 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Al Kas 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-3/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Al Kas 4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/AlKas-4/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Eurosports 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosports-1/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Eurosports 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Eurosportss-2/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "M+ Laliga",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "DAZN Laliga",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Laliga Tv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Tigerhub-bd 🇧🇩 🐯",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tigerhub-bd.vercel.app/Sports-zone/Laliga-tv/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "News": [
