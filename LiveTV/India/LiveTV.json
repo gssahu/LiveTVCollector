@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-20 21:56:40",
+  "date": "2026-02-21 06:38:04",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -710,6 +710,13 @@
     ],
     "Sports": [
       {
+        "name": "Sony Sports Ten 1 HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8"
+      },
+      {
         "name": "Sony Sports Ten 2 HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",
         "group": "Sports",
@@ -787,6 +794,13 @@
         "url": "http://161.248.38.40:8000/play/a06n/index.m3u8"
       },
       {
+        "name": "Star Sports 2 Hindi HD (480p)",
+        "logo": "https://i.imgur.com/kHerF19.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
+      },
+      {
         "name": "Star Sports 2 Tamil (1080p)",
         "logo": "https://i.imgur.com/eWPoUxB.png",
         "group": "Sports",
@@ -836,13 +850,6 @@
         "group": "Information",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
-      },
-      {
-        "name": "BBC Earth",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Information",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://65.108.239.207/bbc/index.m3u8"
       },
       {
         "name": "History TV 18 HD",
@@ -1301,6 +1308,13 @@
         "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
       },
       {
+        "name": "National Geographic",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
+      },
+      {
         "name": "5 NEWS HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1425,13 +1439,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network Hindi",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
       },
       {
         "name": "দূরন্ত টিভি",
@@ -1575,13 +1582,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-      },
-      {
-        "name": "ETV TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
       }
     ],
     "Cricket 🏏": [
@@ -1670,6 +1670,20 @@
         "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2"
       },
       {
+        "name": "Star Sport SL 1 HD 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=28"
+      },
+      {
+        "name": "Star Sport SL 2 HD 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=16"
+      },
+      {
         "name": "T Sports T20 World Cup 26 📺",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1677,11 +1691,32 @@
         "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
       },
       {
+        "name": "Sony Ten 5 Cricket 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=101"
+      },
+      {
         "name": "Sky Cricket",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8"
+      },
+      {
+        "name": "Sony Ten 2 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=29"
+      },
+      {
+        "name": "Sony Ten 1 HD 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=74"
       },
       {
         "name": "🚨 Willow USA SPORT HD 🚨📡📺",
@@ -1768,6 +1803,13 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8"
+      },
+      {
+        "name": "A SPOR",
+        "logo": "https://i.ibb.co/xSjB51j/aspor.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
       },
       {
         "name": "Shol Sports",
@@ -2276,6 +2318,13 @@
         "url": "http://103.78.149.54:8000/play/a022/index.m3u8"
       },
       {
+        "name": "Zee Cinema HD (480p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.99.249.139/zeecinema/index.m3u8"
+      },
+      {
         "name": "Zee South Flix (1080p)",
         "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
         "group": "Movies",
@@ -2587,13 +2636,6 @@
         "url": "https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,.smil/playlist.m3u8"
       },
       {
-        "name": "Anmol TV (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.78.149.54:8000/play/a00j/index.m3u8"
-      },
-      {
         "name": "Apna Punjab TV (720p)",
         "logo": "https://i.imgur.com/IM4D8Wz.png",
         "group": "Entertainment",
@@ -2902,6 +2944,13 @@
         "url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
       },
       {
+        "name": "Nepal 1 (396p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nepal_one.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8"
+      },
+      {
         "name": "NTC TV (720p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
         "group": "Entertainment",
@@ -3082,6 +3131,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.78.149.54:8000/play/a007/index.m3u8"
+      },
+      {
+        "name": "Sun Neo (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://163.61.227.29:8000/play/a04t/index.m3u8"
       },
       {
         "name": "Sun TV (576p)",
@@ -3282,6 +3338,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+      },
+      {
+        "name": "BBC News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
@@ -5017,11 +5080,11 @@
         "url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
       },
       {
-        "name": "Songdew TV (720p)",
+        "name": "Songdew TV (396p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=/*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8"
+        "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       },
       {
         "name": "Steelbird Music (720p) [Not 24/7]",
@@ -5099,6 +5162,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8"
+      },
+      {
+        "name": "Tunes 6 (720p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
       },
       {
         "name": "Vaanavil TV (720p)",
@@ -5451,6 +5521,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      },
+      {
+        "name": "PMC Telugu (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8"
       },
       {
         "name": "Sadhna (720p)",
