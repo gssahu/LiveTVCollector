@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 13:49:00",
+  "date": "2026-02-21 21:47:15",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -15,13 +15,6 @@
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://nocable.cc:8080/789588/114528/125814"
-      },
-      {
-        "name": "TV ASIA (USA)",
-        "logo": " ",
-        "group": "STREAMING MEDIA",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125819"
       },
       {
         "name": "SONY MAX 2 (USA)",
@@ -187,6 +180,13 @@
         "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8"
       },
       {
+        "name": "EPIC (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8"
+      },
+      {
         "name": "STAR PLUS (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
@@ -303,6 +303,15 @@
         "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8"
       }
     ],
+    "ICC World Cup 2026": [
+      {
+        "name": "ICC World Cup 2026",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
+        "group": "ICC World Cup 2026",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.151.61.12/T-Sports.kutta/tracks-v1a1/mono.m3u8"
+      }
+    ],
     "Live Sports": [
       {
         "name": "Live Sports",
@@ -326,13 +335,6 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"
-      },
-      {
-        "name": "Maasranga TV",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a05q/index.m3u8"
       },
       {
         "name": "NTV UK",
@@ -435,13 +437,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
-      },
-      {
-        "name": "Makkah TV",
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -1005,13 +1000,6 @@
         "url": "http://103.229.254.25:7001/play/a02w/index.m3u8"
       },
       {
-        "name": "Star Movies Select HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",
-        "group": "English Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a02v/index.m3u8"
-      },
-      {
         "name": "Lotus",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "English Movies",
@@ -1168,6 +1156,13 @@
         "url": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8"
       },
       {
+        "name": "NEWS18 INDIA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.140.254.2:3500/live/530.m3u8"
+      },
+      {
         "name": "TRT 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1266,13 +1261,6 @@
         "url": "https://mumt03.tangotv.in/HIDOST/index.m3u8"
       },
       {
-        "name": "Express HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a05i/index.m3u8"
-      },
-      {
         "name": "ZEE ANMOL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1294,18 +1282,18 @@
         "url": "http://163.61.227.29:8000/play/a03b/index.m3u8"
       },
       {
-        "name": "DISCOVERY",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
-      },
-      {
         "name": "DISCOVERY TURBO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a01w/index.m3u8"
+      },
+      {
+        "name": "DISCOVERY SCIENCE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.140.254.2:3500/live/568.m3u8"
       },
       {
         "name": "National Geographic",
@@ -1320,6 +1308,20 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
+      },
+      {
+        "name": "Animal Planet",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.140.254.2:3500/live/567.m3u8"
+      },
+      {
+        "name": "Ndtv Good Times",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.140.254.2:3500/live/560.m3u8"
       },
       {
         "name": "5 NEWS HD",
@@ -1446,13 +1448,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
-      },
-      {
-        "name": "দূরন্ত টিভি",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
       },
       {
         "name": "US-BD Journal 24 TV",
@@ -1668,6 +1663,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
+      },
+      {
+        "name": "Sky Sport Mian Event",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8"
       },
       {
         "name": "T Sports T20 World Cup 🇧🇩🚹",
