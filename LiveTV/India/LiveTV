@@ -162,10 +162,16 @@
     "img": " "
   },
   {
-    "name": "SUN NEO (IND)",
+    "name": "SUN NEO HD (IND)",
     "type": "TERRESTRIAL TV",
-    "url": "http://103.78.149.54:8000/play/a00y/index.m3u8",
+    "url": "http://103.180.212.191:3500/live/3088.m3u8",
     "img": " "
+  },
+  {
+    "name": "COLORS HD (IND)",
+    "type": "TERRESTRIAL TV",
+    "url": "http://103.180.212.191:3500/live/144.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "SONY HD (IND)",
@@ -1314,6 +1320,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ETV TV",
+    "type": "Live Tv",
+    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Saudia Arabia",
     "type": "Cricket 🏏",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
@@ -1338,15 +1350,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Azan TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Star Sport 2 HD 🇮🇳",
+    "name": "Star Sports 1",
     "type": "Cricket 🏏",
-    "url": "http://103.99.249.139/starsport2/index.m3u8",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star-Sports-Select-1",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star-Sports-Select-2",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-2",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1374,9 +1404,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "PTV Sports HD 🇵🇰",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "A Sports HD 🇵🇰",
     "type": "Cricket 🏏",
     "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Sports HD 🇵🇰",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/a-sports",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1425,6 +1467,18 @@
     "name": "Sony Ten 1 HD 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=74",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨Sathiya TV Srilanka 📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ten Cricket HD",
+    "type": "Cricket 🏏",
+    "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge3/sony-ten-cricket",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2799,12 +2853,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

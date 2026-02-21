@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21 06:38:04",
+  "date": "2026-02-21 13:49:00",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -194,11 +194,18 @@
         "url": "http://103.182.170.32:8888/play/a03o"
       },
       {
-        "name": "SUN NEO (IND)",
+        "name": "SUN NEO HD (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://103.78.149.54:8000/play/a00y/index.m3u8"
+        "url": "http://103.180.212.191:3500/live/3088.m3u8"
+      },
+      {
+        "name": "COLORS HD (IND)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://103.180.212.191:3500/live/144.m3u8"
       },
       {
         "name": "SONY HD (IND)",
@@ -1582,6 +1589,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+      },
+      {
+        "name": "ETV TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
       }
     ],
     "Cricket 🏏": [
@@ -1614,6 +1628,13 @@
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
       },
       {
+        "name": "Azan TV 🎯 📡",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      },
+      {
         "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1621,11 +1642,25 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
-        "name": "Star Sport 2 HD 🇮🇳",
+        "name": "Star Sports 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.99.249.139/starsport2/index.m3u8"
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1"
+      },
+      {
+        "name": "Star-Sports-Select-1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1"
+      },
+      {
+        "name": "Star-Sports-Select-2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-2"
       },
       {
         "name": "Sky Sport Mian Event",
@@ -1656,11 +1691,25 @@
         "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92"
       },
       {
+        "name": "PTV Sports HD 🇵🇰",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports"
+      },
+      {
         "name": "A Sports HD 🇵🇰",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88"
+      },
+      {
+        "name": "A Sports HD 🇵🇰",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/a-sports"
       },
       {
         "name": "Star Sports 1 HD 🇮🇳",
@@ -1717,6 +1766,20 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=74"
+      },
+      {
+        "name": "🚨Sathiya TV Srilanka 📡📺",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      },
+      {
+        "name": "Ten Cricket HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge3/sony-ten-cricket"
       },
       {
         "name": "🚨 Willow USA SPORT HD 🚨📡📺",
@@ -3338,13 +3401,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
