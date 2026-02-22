@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22 06:43:42",
+  "date": "2026-02-22 13:50:05",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -57,6 +57,20 @@
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8"
+      },
+      {
+        "name": "FOOD XP (UK)",
+        "logo": "https://www.foodxp.com/images/foodxplogo.png",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8"
+      },
+      {
+        "name": "TRAVELXP HD (UK)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc74e2a1403554c4f8742b61868364a3.png",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
       }
     ],
     "TERRESTRIAL TV": [
@@ -89,7 +103,7 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
       },
       {
-        "name": "DD SPORTS 2.0 (IND)",
+        "name": "DD SPORTS (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
@@ -437,13 +451,6 @@
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
       },
       {
-        "name": "Makkah TV",
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
-      },
-      {
         "name": "AL Sunnah TV",
         "logo": "https://i.ibb.co/rtkWYHV/20240827-092043.png",
         "group": "Relagion Channel",
@@ -473,6 +480,13 @@
       }
     ],
     "Bangla Movies": [
+      {
+        "name": "Movie Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+      },
       {
         "name": "Amar Bangla",
         "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
@@ -532,13 +546,6 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
-      },
-      {
-        "name": "Bangla +",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kolkata Bangla Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
       }
     ],
     "Kolkata Bangla Music": [
@@ -1469,25 +1476,11 @@
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
       },
       {
-        "name": "Cartoon Network Hindi",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
-      },
-      {
         "name": "দূরন্ত টিভি",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
-      },
-      {
-        "name": "Movie Bangla",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
       },
       {
         "name": "US-BD Journal 24 TV",
@@ -1631,6 +1624,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
+      },
+      {
+        "name": "Me-টিভি",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8"
       }
     ],
     "Cricket 🏏": [
@@ -1684,6 +1684,13 @@
         "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1"
       },
       {
+        "name": "Star-Sports-Select-1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1"
+      },
+      {
         "name": "Star-Sports-Select-2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1696,13 +1703,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
-      },
-      {
-        "name": "Sky Sport Mian Event",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8"
       },
       {
         "name": "T Sports T20 World Cup 🇧🇩🚹",
@@ -1731,6 +1731,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports"
+      },
+      {
+        "name": "A Sports HD 🇵🇰",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88"
       },
       {
         "name": "A Sports HD 🇵🇰",
@@ -1766,6 +1773,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
+      },
+      {
+        "name": "Sony Ten 5 Cricket 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=101"
       },
       {
         "name": "Sky Cricket",
@@ -2674,6 +2688,13 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
+      },
+      {
+        "name": "Discovery",
+        "logo": "https://i.ibb.co/V2gtYfH/download-1.png",
+        "group": "Infotainment Channels",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://stvlive.net:8080/discovery/index.m3u8"
       },
       {
         "name": "Amazon SAT",
@@ -6557,13 +6578,6 @@
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8"
-      },
-      {
-        "name": "Travelxp HD (1080p) [Geo-blocked]",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-        "group": "Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
       }
     ],
     "Entertainment;Kids": [
