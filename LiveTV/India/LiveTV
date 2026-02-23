@@ -378,6 +378,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Movie Bangla",
+    "type": "Bangla Movies",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Amar Bangla",
     "type": "Bangla Movies",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
@@ -423,6 +429,18 @@
     "name": "Bangla Movies",
     "type": "Kolkata Bangla Movies",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bangla Movies",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -570,22 +588,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sony Sports Ten 1 HD",
-    "type": "Sports",
-    "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"
-  },
-  {
     "name": "Sony Sports Ten 2 HD",
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"
-  },
-  {
-    "name": "Sony Sports Ten 3 HD",
-    "type": "Sports",
-    "url": "http://103.229.254.25:7001/play/a0eg/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"
   },
   {
     "name": "RTA Sports",
@@ -790,6 +796,12 @@
     "type": "KIDS",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
     "img": "h"
+  },
+  {
+    "name": "Pogo",
+    "type": "KIDS",
+    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
   },
   {
     "name": "Zoo Moo",
@@ -1440,12 +1452,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sky Cricket",
-    "type": "Cricket 🏏",
-    "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
@@ -1467,12 +1473,6 @@
     "name": "ATN AFG",
     "type": "Cricket 🏏",
     "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MTVsinst Live 🎯 📡",
-    "type": "Cricket 🏏",
-    "url": "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2176,6 +2176,12 @@
     "type": "Infotainment Channels",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discovery",
+    "type": "Infotainment Channels",
+    "url": "http://stvlive.net:8080/discovery/index.m3u8",
+    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
     "name": "Amazon SAT",

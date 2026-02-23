@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-23 06:43:11",
+  "date": "2026-02-23 14:07:02",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -462,6 +462,13 @@
     ],
     "Bangla Movies": [
       {
+        "name": "Movie Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+      },
+      {
         "name": "Amar Bangla",
         "logo": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png",
         "group": "Bangla Movies",
@@ -520,6 +527,20 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
+      },
+      {
+        "name": "Bangla Movies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kolkata Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+      },
+      {
+        "name": "ZB Cinema",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kolkata Bangla Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Kolkata Bangla Music": [
@@ -698,25 +719,11 @@
     ],
     "Sports": [
       {
-        "name": "Sony Sports Ten 1 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8"
-      },
-      {
         "name": "Sony Sports Ten 2 HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8"
-      },
-      {
-        "name": "Sony Sports Ten 3 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a0eg/index.m3u8"
       },
       {
         "name": "RTA Sports",
@@ -961,6 +968,13 @@
         "group": "KIDS",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+      },
+      {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
       },
       {
         "name": "Zoo Moo",
@@ -1735,13 +1749,6 @@
         "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
       },
       {
-        "name": "Sky Cricket",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8"
-      },
-      {
         "name": "🚨Sathiya TV Srilanka 📡📺",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1768,13 +1775,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
-      },
-      {
-        "name": "MTVsinst Live 🎯 📡",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
       },
       {
         "name": "🚨 ATN AFG 🚨",
@@ -2606,6 +2606,13 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
+      },
+      {
+        "name": "Discovery",
+        "logo": "https://i.ibb.co/V2gtYfH/download-1.png",
+        "group": "Infotainment Channels",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://stvlive.net:8080/discovery/index.m3u8"
       },
       {
         "name": "Amazon SAT",
