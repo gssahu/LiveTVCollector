@@ -230,18 +230,6 @@
   {
     "name": "ICC World Cup 2026",
     "type": "ICC World Cup 2026",
-    "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
-  },
-  {
-    "name": "ICC World Cup 2026",
-    "type": "ICC World Cup 2026",
-    "url": "https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
-  },
-  {
-    "name": "ICC World Cup 2026",
-    "type": "ICC World Cup 2026",
     "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
   },
@@ -486,12 +474,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Calcutta News",
-    "type": "Indian Bangla News",
-    "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
-    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
-  },
-  {
     "name": "Kolkata TV",
     "type": "Indian Bangla News",
     "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
@@ -534,6 +516,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Rishtey.png"
   },
   {
+    "name": "Zee TV HD",
+    "type": "Hindi",
+    "url": "http://103.175.73.12:8080/live/254/254_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"
+  },
+  {
     "name": "Big Magic",
     "type": "Hindi",
     "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
@@ -570,15 +558,39 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Sony Max",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/164/164_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"
+  },
+  {
     "name": "Sony Max 2 HD",
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/39/39_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"
   },
   {
+    "name": "Zee Cinema HD",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/264/264_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"
+  },
+  {
+    "name": "Zee Action",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"
+  },
+  {
+    "name": "Zee Cassic",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/272/272_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Zee Anmol Cinema 2",
     "type": "Hindi Movies",
-    "url": "http://110.39.27.47:8001/play/a03w/index.m3u8",
+    "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954"
   },
   {
@@ -630,6 +642,18 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"
   },
   {
+    "name": "And Pictures HD",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/266/266_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"
+  },
+  {
+    "name": "And Xplor HD",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/268/268_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"
+  },
+  {
     "name": "B4U Movies",
     "type": "Hindi Movies",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
@@ -676,6 +700,12 @@
     "type": "Hindi Movies",
     "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Manoranjan Prime",
+    "type": "Hindi Movies",
+    "url": "http://103.175.73.12:8080/live/345/345_0.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s"
   },
   {
     "name": "Manoranjan Grend",
@@ -744,6 +774,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"
   },
   {
+    "name": "Star Sports Select 2",
+    "type": "Sports",
+    "url": "http://103.175.73.12:8080/live/282/282_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"
+  },
+  {
     "name": "Sony Sports Ten 1 HD",
     "type": "Sports",
     "url": "http://103.175.73.12:8080/live/74/74_0.m3u8",
@@ -783,6 +819,12 @@
     "name": "Eurosports",
     "type": "Sports",
     "url": "http://103.175.73.12:8080/live/82/82_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"
+  },
+  {
+    "name": "Eurosports",
+    "type": "Sports",
+    "url": "http://103.175.73.12:8080/live/283/283_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"
   },
   {
@@ -854,14 +896,32 @@
   {
     "name": "Discovery Bangla",
     "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
+    "url": "http://202.70.146.135:8000/play/a05z/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
+  },
+  {
+    "name": "Discovery Turbo",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/330/330_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"
+  },
+  {
+    "name": "Investigation Discovery Multi Audio",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/145/145_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"
   },
   {
     "name": "Animal Planet HD",
     "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
+    "url": "http://103.175.73.12:8080/live/328/328_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
+  },
+  {
+    "name": "TLC HD",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/138/138_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"
   },
   {
     "name": "Nat Geo HD",
@@ -876,15 +936,33 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
   {
+    "name": "Nat Geo HD",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/324/324_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
+    "name": "Nat Geo",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/325/325_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
+    "name": "Nat Geo Wild",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/133/133_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"
+  },
+  {
     "name": "Sony BBC Earth",
     "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
+    "url": "http://103.175.73.12:8080/live/131/131_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
   },
   {
     "name": "Sony BBC Earth HD",
     "type": "Information",
-    "url": "http://202.70.146.135:8000/play/a067/index.m3u8",
+    "url": "http://103.175.73.12:8080/live/255/255_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
   },
   {
@@ -930,15 +1008,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "DMAX",
+    "name": "Zee Zast HD",
     "type": "Information",
-    "url": "https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8",
+    "url": "http://103.175.73.12:8080/live/326/326_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Food Network",
+    "name": "Zee Zast",
     "type": "Information",
-    "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8",
+    "url": "http://103.175.73.12:8080/live/327/327_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Food Food",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/143/143_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -996,10 +1080,34 @@
     "img": "h"
   },
   {
+    "name": "Cartoon Network HD",
+    "type": "KIDS",
+    "url": "http://103.175.73.12:8080/live/127/127_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"
+  },
+  {
+    "name": "Nick HD Plus",
+    "type": "KIDS",
+    "url": "http://103.175.73.12:8080/live/322/322_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"
+  },
+  {
     "name": "Pogo",
     "type": "KIDS",
-    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+    "url": "http://103.175.73.12:8080/live/323/323_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
+  },
+  {
+    "name": "Disney Channel",
+    "type": "KIDS",
+    "url": "http://103.175.73.12:8080/live/321/321_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Disney JR",
+    "type": "KIDS",
+    "url": "http://103.175.73.12:8080/live/129/129_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Zoo Moo",
@@ -1018,6 +1126,96 @@
     "type": "KIDS",
     "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
+  },
+  {
+    "name": "Super Hungama TV",
+    "type": "Kids",
+    "url": "http://103.175.73.12:8080/live/128/128_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC Cbeebies",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cartoon Network",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Duck TV",
+    "type": "Kids",
+    "url": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PBS Kids",
+    "type": "Kids",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Unnamed Channel",
+    "type": "Kids",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cartoon",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
+  },
+  {
+    "name": "Zoo Moo",
+    "type": "Kids",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Chithiram (576p)",
+    "type": "Kids",
+    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "img": "https://i.imgur.com/xv9cWSh.png"
+  },
+  {
+    "name": "Disney Channel (576p)",
+    "type": "Kids",
+    "url": "http://161.248.38.40:8000/play/a06q/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Disney Junior (576p)",
+    "type": "Kids",
+    "url": "http://161.248.38.40:8000/play/a068/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Gubbare (1080p)",
+    "type": "Kids",
+    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Nick Jr. (576p)",
+    "type": "Kids",
+    "url": "http://161.248.38.40:8000/play/a074/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"
+  },
+  {
+    "name": "Nickelodeon (576p)",
+    "type": "Kids",
+    "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sonic (576p)",
+    "type": "Kids",
+    "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Movies",
@@ -1044,6 +1242,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"
   },
   {
+    "name": "Zee Cafe HD",
+    "type": "English Movies",
+    "url": "http://103.175.73.12:8080/live/261/261_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png"
+  },
+  {
     "name": "Movies Now HD",
     "type": "English Movies",
     "url": "http://103.175.73.12:8080/live/61/61_0.m3u8",
@@ -1054,6 +1258,12 @@
     "type": "English Movies",
     "url": "http://103.175.73.12:8080/live/62/62_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"
+  },
+  {
+    "name": "And Flix",
+    "type": "English Movies",
+    "url": "http://103.175.73.12:8080/live/279/279_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "And Prive",
@@ -1098,10 +1308,22 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "9XM",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"
+  },
+  {
     "name": "9X Jalwa",
     "type": "Hindi Music",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
     "img": "https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"
+  },
+  {
+    "name": "Zing",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/154/154_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"
   },
   {
     "name": "B4U Music",
@@ -1110,10 +1332,34 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"
   },
   {
+    "name": "MTV",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/150/150_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"
+  },
+  {
+    "name": "MTV HD",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/149/149_0.m3u8",
+    "img": "https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"
+  },
+  {
     "name": "B4U Music",
     "type": "Hindi Music",
     "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "E24",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+    "img": "https://i.ibb.co/dbjnG3X/20240803-105403.png"
+  },
+  {
+    "name": "Music India",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU"
   },
   {
     "name": "CNN",
@@ -1218,12 +1464,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Azan TV 🎯 📡",
-    "type": "Cricket 🏏",
-    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
@@ -1236,15 +1476,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "🚨Sathiya TV Srilanka 📡📺",
+    "name": "Sky Sport Mian Event",
     "type": "Cricket 🏏",
-    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "url": "https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+    "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
-    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
+    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1287,6 +1527,12 @@
     "name": "Shoel Sports",
     "type": "Football",
     "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NOW SPORTS PRIME",
+    "type": "Football",
+    "url": "http://hls.168.us.kg/u/630/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1768,90 +2014,6 @@
     "type": "Bangladeshi 🇧🇩",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC Cbeebies",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Duck TV",
-    "type": "Kids",
-    "url": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PBS Kids",
-    "type": "Kids",
-    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Unnamed Channel",
-    "type": "Kids",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZB Cartoon",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
-  },
-  {
-    "name": "Zoo Moo",
-    "type": "Kids",
-    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Chithiram (576p)",
-    "type": "Kids",
-    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
-    "img": "https://i.imgur.com/xv9cWSh.png"
-  },
-  {
-    "name": "Disney Channel (576p)",
-    "type": "Kids",
-    "url": "http://161.248.38.40:8000/play/a06q/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "type": "Kids",
-    "url": "http://161.248.38.40:8000/play/a068/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Gubbare (1080p)",
-    "type": "Kids",
-    "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Nick Jr. (576p)",
-    "type": "Kids",
-    "url": "http://161.248.38.40:8000/play/a074/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"
-  },
-  {
-    "name": "Nickelodeon (576p)",
-    "type": "Kids",
-    "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sonic (576p)",
-    "type": "Kids",
-    "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
     "name": "Peace tv Bangla",
