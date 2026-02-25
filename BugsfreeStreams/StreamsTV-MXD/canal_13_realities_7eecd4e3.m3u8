@@ -2,3 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000106,RESOLUTION=1920x1080
+https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/60e1e722-d2ed-43fa-819b-bb011b3d1966:DLS/variant/1e1128a09c4408a923bd9ddab1fe14ec/bandwidth/5000106.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2901838,RESOLUTION=1280x720
+https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/60e1e722-d2ed-43fa-819b-bb011b3d1966:DLS/variant/41ae94fa708009449c52dfec6894aba0/bandwidth/2901838.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1748138,RESOLUTION=854x480
+https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/60e1e722-d2ed-43fa-819b-bb011b3d1966:DLS/variant/ee030f6e0daa395df9088ec4eaf454d1/bandwidth/1748138.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=489714,RESOLUTION=426x240
+https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/60e1e722-d2ed-43fa-819b-bb011b3d1966:DLS/variant/25e65f6a851e8c1fcf2e26be2edb2648/bandwidth/489714.m3u8
