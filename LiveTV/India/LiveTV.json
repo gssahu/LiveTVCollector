@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-14 06:39:18",
+  "date": "2026-03-14 13:53:49",
   "channels": {
     "Promo": [
       {
@@ -129,6 +129,20 @@
       }
     ],
     "Relagion Channel": [
+      {
+        "name": "Peace TV Bangla",
+        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
+      },
+      {
+        "name": "Peace TV English",
+        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+      },
       {
         "name": "Peace TV Urdu",
         "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
@@ -895,6 +909,13 @@
       }
     ],
     "KIDS": [
+      {
+        "name": "Tom & Jarry",
+        "logo": "h",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+      },
       {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -2175,13 +2196,6 @@
         "group": "ISLAMIC CHANNELS",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-      },
-      {
-        "name": "Peace Tv English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ISLAMIC CHANNELS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
       },
       {
         "name": "Madani Tv",
