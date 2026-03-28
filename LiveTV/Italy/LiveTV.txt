@@ -515,7 +515,7 @@ URL: http://78.130.250.2:8023/play/a04h/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai Scuola HD [Geo-Blocked]
+Name: Rai Scuola HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -539,7 +539,7 @@ URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Canale 5 HD [Geo-Blocked]
+Name: Canale 5 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -740,7 +740,7 @@ URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Italia 1 HD [Geo-Blocked]
+Name: Italia 1 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -750,7 +750,7 @@ URL: https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 Logo: https://i.imgur.com/sM0A3GD.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: LA7 HD [Geo-Blocked]
+Name: LA7 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -1283,7 +1283,7 @@ URL: http://78.130.250.2:8023/play/a04l/index.m3u8
 Logo: https://i.imgur.com/n2u57y3.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai News 24 HD [Geo-Blocked]
+Name: Rai News 24 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 Logo: https://i.imgur.com/n2u57y3.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -3893,7 +3893,7 @@ URL: https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 Logo: https://i.imgur.com/2ByDyzL.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai Sport HD [Geo-Blocked]
+Name: Rai Sport HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 Logo: https://i.imgur.com/6PEevOM.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -4035,7 +4035,7 @@ URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai 2 HD [Geo-Blocked]
+Name: Rai 2 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -4065,7 +4065,7 @@ URL: http://78.130.250.2:8023/play/a04m/index.m3u8
 Logo: https://i.imgur.com/irAhPJM.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai Gulp HD [Geo-Blocked]
+Name: Rai Gulp HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 Logo: https://i.imgur.com/irAhPJM.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -4080,7 +4080,7 @@ URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai Storia HD [Geo-Blocked]
+Name: Rai Storia HD (1080p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -4100,7 +4100,7 @@ URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rete 4 HD [Geo-Blocked]
+Name: Rete 4 HD (720p) [Geo-Blocked]
 URL: https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
@@ -4380,19 +4380,19 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Med.TV
-URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiYzgxZGRlMGUtYWM4Mi00MTMwLTkyYmYtODcxYzE1NDhmZTAwIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMTBjMWYzNjQtNDM4NS00NzI0LTg4YWEtN2QzZDIwZTljNzFlIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMWNmY2JiM2UtYjFjNy00NjNlLWIwZjEtYjA0NGM4OTljMGNmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMThiNjBjMDItMmIxZi00MDgwLWI5MGMtYWNmZTU4OWI0N2VmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMzA0YzQ5MjktYjZkZS00YWQ3LTk4NjQtOWVkMTIxYmQ3ODcxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNDYwMjZkODMtNDNlMS00MDNmLWEzYWItYThkYTRmMTNiMGQ2IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
