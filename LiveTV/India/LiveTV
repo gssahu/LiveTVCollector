@@ -26,6 +26,12 @@
   {
     "name": "PSL 2026",
     "type": "PSL 2026",
+    "url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"
+  },
+  {
+    "name": "PSL 2026",
+    "type": "PSL 2026",
     "url": "http://103.175.242.10:8080/tsports1/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"
   },
@@ -102,10 +108,10 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"
   },
   {
-    "name": "Peace TV Bangla",
+    "name": "Peace TV English",
     "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
-    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
     "name": "Peace TV Urdu",
@@ -226,6 +232,12 @@
     "type": "Indian Bangla News",
     "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
+  },
+  {
+    "name": "Kolkata TV",
+    "type": "Indian Bangla News",
+    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png"
   },
   {
     "name": "TV9 Bangla",
@@ -738,12 +750,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "France 24",
-    "type": "English News",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"
-  },
-  {
     "name": "RT Now",
     "type": "English News",
     "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
@@ -804,12 +810,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Me-টিভি",
-    "type": "Live Tv",
-    "url": "https://iptvbd.live/metv1080/1080.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "NXT",
     "type": "Live Tv",
     "url": "https://smart.bengaldigital.live/WWE/index.m3u8",
@@ -867,6 +867,54 @@
     "name": "PSL 🇵🇰🏏 Willow HD",
     "type": "Cricket 🏏",
     "url": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TSportss BD",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "T Sports HD 🇧🇩",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Sports 1 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Sports 2 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Sports 5 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "EuroSports HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Sports SL 1 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony-Ten-Cricket HD",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -951,12 +999,6 @@
     "name": "Russia Football 2 HD",
     "type": "Football",
     "url": "http://cdntv.online/low/9mlxywika2/56.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Russia Football 3 HD",
-    "type": "Football",
-    "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1468,12 +1510,6 @@
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Peace tv Bangla",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
     "name": "Noor Tv",
@@ -2166,12 +2202,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DW English",
     "type": "NEWS INTERNASIONAL",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
@@ -2758,12 +2788,6 @@
     "type": "News",
     "url": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Kolkata TV (1080p)",
-    "type": "News",
-    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Living India News (1080p)",

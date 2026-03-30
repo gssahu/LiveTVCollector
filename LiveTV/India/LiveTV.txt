@@ -254,6 +254,46 @@ URL: http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: TSportss BD
+URL: https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: T Sports HD 🇧🇩
+URL: https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports 1 HD 🇮🇳
+URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports 2 HD 🇮🇳
+URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports 5 HD 🇮🇳
+URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: EuroSports HD 🇮🇳
+URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Sports SL 1 🇮🇳
+URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony-Ten-Cricket HD
+URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Sky Sport Mian Event
 URL: https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -442,11 +482,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: DW Naws
 URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: France 24
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: RT Now
@@ -964,11 +999,6 @@ URL: http://cdntv.online/low/9mlxywika2/56.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Russia Football 3 HD
-URL: http://cdntv.online/low/9mlxywika2/57.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Real Madrid tv Football
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1421,11 +1451,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: ISLAMIC CHANNELS
-Name: Peace tv Bangla
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-Logo: https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Noor Tv
 URL: https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1521,6 +1546,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Calcutta News
 URL: https://akdnetwork.co.in/live/cnnew/index.m3u8
 Logo: https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Kolkata TV
+URL: https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+Logo: https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: TV9 Bangla
@@ -1854,11 +1884,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: ETV TV
 URL: https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Me-টিভি
-URL: https://iptvbd.live/metv1080/1080.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -2480,11 +2505,6 @@ URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: DW English
 URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3007,11 +3027,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Khabrain Abhi Tak (576p)
 URL: https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Kolkata TV (1080p)
-URL: https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-Logo: https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Living India News (1080p)
@@ -3647,6 +3662,11 @@ Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: PSL 2026
+URL: http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: PSL 2026
 URL: http://103.175.242.10:8080/tsports1/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -3660,9 +3680,9 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
-Name: Peace TV Bangla
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
+Name: Peace TV English
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+Logo: https://i.ibb.co/598TYnC/20240827-092020.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Peace TV Urdu
