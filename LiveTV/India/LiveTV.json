@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30 14:32:44",
+  "date": "2026-03-30 22:15:47",
   "channels": {
     "Promo": [
       {
@@ -141,6 +141,13 @@
     ],
     "Relagion Channel": [
       {
+        "name": "Peace TV Bangla",
+        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
+      },
+      {
         "name": "Peace TV English",
         "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
         "group": "Relagion Channel",
@@ -257,6 +264,15 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8"
+      }
+    ],
+    "Kolkata Bangla Music": [
+      {
+        "name": "Dhoom Music",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kolkata Bangla Music",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8"
       }
     ],
     "Indian Bangla News": [
@@ -920,6 +936,13 @@
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
       },
       {
+        "name": "France 24",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
+        "group": "English News",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8"
+      },
+      {
         "name": "RT Now",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "English News",
@@ -992,6 +1015,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
+      },
+      {
+        "name": "Me-টিভি",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8"
       },
       {
         "name": "NXT",
@@ -1224,6 +1254,13 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://cdntv.online/low/9mlxywika2/56.m3u8"
+      },
+      {
+        "name": "Russia Football 3 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://cdntv.online/low/9mlxywika2/57.m3u8"
       },
       {
         "name": "Real Madrid tv Football",
@@ -1828,6 +1865,13 @@
       }
     ],
     "ISLAMIC CHANNELS": [
+      {
+        "name": "Peace tv Bangla",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
+      },
       {
         "name": "Noor Tv",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",

@@ -484,6 +484,11 @@ URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: France 24
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: RT Now
 URL: https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -999,6 +1004,11 @@ URL: http://cdntv.online/low/9mlxywika2/56.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Russia Football 3 HD
+URL: http://cdntv.online/low/9mlxywika2/57.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Real Madrid tv Football
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1451,6 +1461,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: ISLAMIC CHANNELS
+Name: Peace tv Bangla
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+Logo: https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Noor Tv
 URL: https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1800,6 +1815,13 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
+Group: Kolkata Bangla Music
+Name: Dhoom Music
+URL: http://103.175.73.12:8080/live/378/378_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+
 Group: Legislative
 Name: Sansad TV 1 (1080p)
 URL: https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
@@ -1884,6 +1906,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: ETV TV
 URL: https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Me-টিভি
+URL: https://iptvbd.live/metv1080/1080.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3680,6 +3707,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
+Name: Peace TV Bangla
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Peace TV English
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
