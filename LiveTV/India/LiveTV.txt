@@ -242,6 +242,21 @@ URL: http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: T Sports HD 🇧🇩
+URL: https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Sports SL 1 🇮🇳
+URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Sports SL 2 🇮🇳
+URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1271,11 +1286,6 @@ URL: http://103.229.254.25:7001/play/a077/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Zee TV
-URL: http://103.161.153.165:8000/play/a01j/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Zee TV HD
 URL: http://103.229.254.25:7001/play/a0cs/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png
@@ -1313,18 +1323,8 @@ URL: https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Sony Max
-URL: http://103.161.153.165:8000/play/a01k/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Zee Action
 URL: http://103.175.73.12:8080/live/270/270_0.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Zee Action
-URL: http://103.161.153.165:8000/play/a03s/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1336,21 +1336,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: And Pictures HD
 URL: http://103.229.254.25:7001/play/a033/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: UTV Gold
-URL: http://103.161.153.165:8000/play/a03c/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: UTV Classic
-URL: http://103.161.153.165:8000/play/a03d/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: UTV Pictures
-URL: http://103.161.153.165:8000/play/a03e/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: B4U Movies
@@ -1428,11 +1413,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 
 Group: IPL 2026
 Name: IPL 2026
-URL: http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: IPL 2026
 URL: http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -1485,6 +1465,11 @@ Logo: https://i.ibb.co/ypj95gJ/almasirah.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: AL EKHBARIA
+URL: https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+Logo: https://i.ibb.co/TkVK043/ekbariya.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: AL EKHBARIA
 URL: https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 Logo: https://i.ibb.co/TkVK043/ekbariya.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -1497,6 +1482,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: AL SUNNAH TV
 URL: https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 Logo: https://i.ibb.co/MctgDQ8/sunnah.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: QURAN KAREEM TV
+URL: https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+Logo: https://i.ibb.co/f0cKj4S/kareem.jpg
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: AL ISTIQAMA
@@ -1748,11 +1738,6 @@ URL: https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Sun Bangla HD
-URL: http://103.161.153.165:8000/play/a03k/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Enter 10 Bangla
 URL: https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg
@@ -1765,8 +1750,8 @@ URL: https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: ZB Cinema
-URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+Name: Bangla Movies
+URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3631,11 +3616,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
-Name: Peace TV Bangla
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Peace TV English
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
@@ -4049,16 +4029,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: DD Sports 2.0
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Eurosports HD
-URL: http://103.161.153.165:8000/play/a01b/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Bein Sports 1
-URL: http://103.161.153.165:8000/play/a03z/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
