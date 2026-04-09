@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:38:17",
+  "date": "2026-04-09 08:12:12",
   "channels": {
     "Music": [
       {
@@ -1820,15 +1820,6 @@
         "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
       }
     ],
-    "Outdoor;Shop": [
-      {
-        "name": "INWILD (1080p) [Geo-blocked]",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png",
-        "group": "Outdoor;Shop",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8"
-      }
-    ],
     "Outdoor": [
       {
         "name": "Italian Fishing TV (1080p)",
@@ -1845,6 +1836,22 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Storie Criminali",
+        "logo": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Mr. Bean Anime Italy (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
       }
     ],
     "Outdoor;Travel": [
@@ -3817,13 +3824,6 @@
         "group": "RAKUTEN programmi_tv",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
         "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Mr. Bean",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "RAKUTEN programmi_tv",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
       },
       {
         "name": "Mr. Bean - Live Action",
@@ -6085,7 +6085,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "lifestyle",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNWEwNTcyODQtZDJjOC00MDVhLTk2MmEtYzU3MjE2Mzg5OTJjIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
+        "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZGZiNTc2OTUtYmFkMS00NmFjLWFlYTItNjBlMWIzNzgxZGQ1IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
       }
     ],
     "notizie": [
@@ -6094,14 +6094,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiNGRiOGZlZDgtODlkNS00YzFmLTkxYjEtNzMwMzRjOWRlZTYwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMjE0NWJjYmQtYjQ5YS00MDE1LTkwNjUtZjZlYjczZTlkMWFiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8"
       },
       {
         "name": "Africanews",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMmQ1ZjAxOWEtYWU5YS00NmIzLTgwMzUtYzMzYzYwZmVhOTY1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiOTYwNWZjNGUtODRlZi00MDczLTgyNDktZjg3NWRmOTQ5NTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8"
       }
     ]
   }
