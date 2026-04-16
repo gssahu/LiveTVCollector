@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-16 14:38:49",
+  "date": "2026-04-16 22:32:45",
   "channels": {
     "Promo": [
       {
@@ -27,6 +27,13 @@
       }
     ],
     "Live Sports": [
+      {
+        "name": "Live Sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK-N_gNFqnaOM4YRQ&s=10",
+        "group": "Live Sports",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8"
+      },
       {
         "name": "LiveSports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10",
@@ -56,6 +63,13 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+      },
+      {
+        "name": "Global TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8"
       },
       {
         "name": "Green TV",
@@ -109,6 +123,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+      },
+      {
+        "name": "Makkah TV",
+        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -861,6 +882,13 @@
         "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8"
       },
       {
+        "name": "Star Sports SL 2 🇮🇳",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8"
+      },
+      {
         "name": "Sony-Ten-Cricket HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1562,6 +1590,20 @@
         "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
       },
       {
+        "name": "Unnamed Channel",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8"
+      },
+      {
+        "name": "ZB Cartoon",
+        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      },
+      {
         "name": "Zoo Moo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Kids",
@@ -1623,13 +1665,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8"
-      },
-      {
-        "name": "ZB Cartoon (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
       }
     ],
     "ISLAMIC CHANNELS": [
@@ -2487,13 +2522,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
