@@ -78,10 +78,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Peace TV Bangla",
+    "name": "Peace TV English",
     "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
-    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
+    "name": "Peace TV Urdu",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
     "name": "Madani TV",
@@ -702,7 +708,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "TSportss BD",
+    "name": "T Sports HD 🇧🇩",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -729,6 +735,18 @@
     "name": "EuroSports HD 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Sports SL 1 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Sports SL 2 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1390,18 +1408,6 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
     "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
-  },
-  {
-    "name": "Noor Tv",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Peace Tv English",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Sunnah Tv",
@@ -2115,12 +2121,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4084,12 +4084,6 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
-  },
-  {
-    "name": "Peace TV Urdu (1080p)",
-    "type": "Religious",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
