@@ -54,9 +54,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 15",
+    "name": "Channel 13",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/15/15_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -66,27 +66,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 13",
+    "name": "Channel 15",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel 23",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/23/23_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel 21",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/21/21_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel 19",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/15/15_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -96,15 +78,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 29",
+    "name": "Channel 19",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 21",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/21/21_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 23",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/23/23_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Channel 25",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/25/25_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 29",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -120,27 +120,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 43",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/43/43_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 44",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/44/44_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 47",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/47/47_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 46",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/46/46_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 43",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/43/43_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 47",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/47/47_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -162,27 +162,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 159",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 161",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/161/161_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 51",
+    "name": "Channel 159",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Channel 52",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 51",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -204,27 +204,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 173",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/173/173_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 144",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/144/144_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 174",
+    "name": "Channel 173",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/174/174_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/173/173_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Channel 175",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/175/175_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 174",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/174/174_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -264,15 +264,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Channel 189",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/189/189_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel 247",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/247/247_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 189",
+    "name": "Channel 257",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/189/189_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -288,12 +294,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 257",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 274",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/274/274_0.m3u8",
@@ -306,15 +306,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 331",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/331/331_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 332",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/332/332_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 349",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/349/349_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -324,9 +324,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 349",
+    "name": "Channel 331",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/349/349_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/331/331_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -348,15 +348,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 378",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 375",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/375/375_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 378",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -378,9 +378,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 637",
+    "name": "Channel 471",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/637/637_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/471/471_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -390,9 +390,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 471",
+    "name": "Channel 637",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/471/471_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/637/637_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -402,27 +402,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 658",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/658/658_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Channel 648",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/648/648_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 673",
+    "name": "Channel 658",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/673/673_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Channel 688",
-    "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/688/688_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/658/658_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -432,15 +420,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 64",
+    "name": "Channel 688",
     "type": "Live Tv",
-    "url": "http://103.175.73.12:8080/live/64/64_0.m3u8",
+    "url": "http://103.175.73.12:8080/live/688/688_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 673",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/673/673_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Channel 695",
     "type": "Live Tv",
     "url": "http://103.175.73.12:8080/live/695/695_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 64",
+    "type": "Live Tv",
+    "url": "http://103.175.73.12:8080/live/64/64_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
