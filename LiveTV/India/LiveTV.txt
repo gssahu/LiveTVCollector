@@ -1353,6 +1353,16 @@ URL: http://103.175.73.12:8080/live/270/270_0.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Star Gold Select HD
+URL: http://103.229.254.25:7001/play/a032/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: And Pictures HD
+URL: http://103.229.254.25:7001/play/a033/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: B4U Movies
 URL: https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png
@@ -1446,6 +1456,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Noor Tv
 URL: https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Peace Tv English
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1564,6 +1579,11 @@ Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.pn
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Nat Geo HD
+URL: http://103.229.254.25:7001/play/a038/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Nat Geo HD
 URL: http://202.70.146.135:8000/play/a05o/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -1581,6 +1601,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Colors Infinity HD
 URL: http://103.229.254.25:7001/play/a0du/index.m3u8
 Logo: https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: History TV 18
+URL: http://103.229.254.25:7001/play/a02z/index.m3u8
+Logo: https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Travel XP English EU
@@ -1770,6 +1795,18 @@ URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Colors Bangla Cinema
+URL: http://103.229.254.25:7001/play/a078/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+
+Group: Kolkata Bangla Music
+Name: Dhoom Music
+URL: http://103.175.73.12:8080/live/378/378_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 
 Group: Legislative
 Name: Sansad TV 1 (1080p)
@@ -1831,6 +1868,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Live Sports
+Name: Live Sports
+URL: https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK-N_gNFqnaOM4YRQ&s=10
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: LiveSports
 URL: http://103.229.254.25:7001/play/a087/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
@@ -2081,11 +2123,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Gold Romance (576p)
 URL: http://103.157.248.140:8000/play/a01i/index.m3u8
 Logo: https://i.imgur.com/gSWv9U3.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Gold Select HD (1080p)
-URL: http://103.229.254.25:7001/play/a032/index.m3u8
-Logo: https://i.imgur.com/U7eiuqv.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold Thrills (576p)
@@ -3664,14 +3701,14 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Peace TV English
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
+Name: Madani TV
+URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Peace TV Urdu
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: AL Sunnah TV
@@ -3944,6 +3981,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Peace TV Bangla (1080p)
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 Logo: https://i.imgur.com/1ztVXUi.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Peace TV Urdu (1080p)
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+Logo: https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: PMC Telugu (1080p)
