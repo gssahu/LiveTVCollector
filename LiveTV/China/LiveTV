@@ -3372,7 +3372,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "2026-04-26 16:24:47",
+    "name": "2026-04-26 18:26:29",
     "type": "Uncategorized",
     "url": "https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -3384,15 +3384,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BTV影视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/19/1019_1.m3u8?key=txiptv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CCTV-8K 超高清",
     "type": "Uncategorized",
     "url": "https://tv.cry33.com/ys4k.php?id=8k",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV1",
+    "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/0001_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3404,85 +3404,79 @@
   {
     "name": "CCTV1",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/1/index.m3u8",
+    "url": "http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV1",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/19/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV1",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV1",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000484.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV10",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1010_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV10",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/28/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV10",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000129.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV10",
     "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/faacts/0010_2.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV10",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/10/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV11",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/11/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1011_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV11",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/29/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV11",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000130.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV11",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV11",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/11/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3494,55 +3488,61 @@
   {
     "name": "CCTV12",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1012_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV12",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/30/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV12",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009",
+    "url": "http://120.76.248.139/live/bfgd/4200000131.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV12",
     "type": "Uncategorized",
-    "url": "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/507/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV13",
     "type": "Uncategorized",
-    "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1013_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV13",
     "type": "Uncategorized",
-    "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
+    "url": "http://8.138.7.223/【公众号：榴芒电视】/cctv13.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV13",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/31/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV13",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000067.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV13",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV14",
+    "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1014_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3554,31 +3554,25 @@
   {
     "name": "CCTV14",
     "type": "Uncategorized",
-    "url": "https://event.pull.hebtv.com/jishi/cp2.m3u8",
+    "url": "http://120.76.248.139/live/bfgd/4200000132.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV14",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/14/index.m3u8",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV14",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV14",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/14/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV15",
     "type": "Uncategorized",
-    "url": "http://120.76.248.139/live/bfgd/4200000133.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1015_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3590,25 +3584,19 @@
   {
     "name": "CCTV15",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/102/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV15",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub",
+    "url": "http://120.76.248.139/live/bfgd/4200000133.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV15",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV16",
-    "type": "Uncategorized",
-    "url": "http://39.152.103.17:8089/tsfile/live/1015_1.m3u8",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3620,19 +3608,37 @@
   {
     "name": "CCTV16",
     "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/169/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV16",
+    "type": "Uncategorized",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV16",
+    "type": "Uncategorized",
+    "url": "http://39.152.103.17:8089/tsfile/live/1015_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV16",
+    "type": "Uncategorized",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV16",
+    "name": "CCTV17",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/0019_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV16",
+    "name": "CCTV17",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/35/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3644,49 +3650,49 @@
   {
     "name": "CCTV17",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV17",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://123.130.84.106:8154/tsfile/live/0019_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV2",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1001_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV2",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009",
+    "url": "http://183.11.239.36:808/hls/20/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV2",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000061.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV2",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/502/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV2",
     "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV3",
     "type": "Uncategorized",
-    "url": "http://39.152.103.17:8089/tsfile/live/1002_1.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1002_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3698,19 +3704,25 @@
   {
     "name": "CCTV3",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/3/index.m3u8",
+    "url": "http://183.11.239.36:808/hls/91/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV3",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000062.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV3",
     "type": "Uncategorized",
-    "url": "http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/3/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV4",
+    "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1003_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3722,31 +3734,25 @@
   {
     "name": "CCTV4",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/22/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV4",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/77/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV4",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/67/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV4",
+    "name": "CCTV5",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV4K",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/21/1021_1.m3u8?key=txiptv",
+    "url": "http://58.57.40.22:9901/tsfile/live/1004_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3758,25 +3764,25 @@
   {
     "name": "CCTV5",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/5/index.m3u8",
+    "url": "http://183.11.239.36:808/hls/93/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV5",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000064.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV5",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
+    "url": "http://112.46.85.60:8009/hls/503/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV5",
+    "name": "CCTV5+",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1005_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3798,69 +3804,75 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV5+",
+    "name": "CCTV6",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
+    "url": "http://58.57.40.22:9901/tsfile/live/1006_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV6",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/6/index.m3u8",
+    "url": "http://183.11.239.36:808/hls/94/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV6",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000065.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV6",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV6",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV6",
-    "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/6/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV7",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/7/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1007_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV7",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://8.138.7.223/tv/cctv7.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV7",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009",
+    "url": "http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV7",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/25/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV7",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000127.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV8",
+    "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1008_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CCTV8",
+    "type": "Uncategorized",
+    "url": "http://iptv77.iptv66.eu.org:35455/gaoma/cctv8.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3872,25 +3884,19 @@
   {
     "name": "CCTV8",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/8/index.m3u8",
+    "url": "http://183.11.239.36:808/hls/96/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV8",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000066.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CCTV8",
+    "name": "CCTV9",
     "type": "Uncategorized",
-    "url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV8",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1009_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3902,25 +3908,19 @@
   {
     "name": "CCTV9",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/27/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV9",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub",
+    "url": "http://120.76.248.139/live/bfgd/4200000128.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCTV9",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CCTV9",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/509/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4008,12 +4008,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CETV1",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CGTN",
     "type": "Uncategorized",
     "url": "https://0472.org/hls/cgtn.m3u8",
@@ -4023,12 +4017,6 @@
     "name": "CGTN",
     "type": "Uncategorized",
     "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CGTN",
-    "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4080,27 +4068,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CHC动作电影",
-    "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/60/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CHC家庭影院",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/61/index.m3u8",
+    "url": "http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CHC家庭影院",
     "type": "Uncategorized",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CHC电影",
-    "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/59/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4226,25 +4202,37 @@
   {
     "name": "东南卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1037_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "东南卫视",
+    "type": "Uncategorized",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "东南卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000483.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "东南卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://61.136.172.236:9901/tsfile/live/0137_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "东南卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub",
+    "url": "http://123.129.70.178:9901/tsfile/live/0137_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "东南卫视",
+    "name": "东方卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1030_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4256,37 +4244,25 @@
   {
     "name": "东方卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "东方卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub",
+    "url": "http://124.116.183.146:9901/tsfile/live/0107_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "东方卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "东方卫视",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/114/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "东方卫视4K",
     "type": "Uncategorized",
     "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "东方财经",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4458,12 +4434,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "书法频道",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "云南丽江冰川",
     "type": "Uncategorized",
     "url": "https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8",
@@ -4496,31 +4466,31 @@
   {
     "name": "云南卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub",
+    "url": "http://58.57.40.22:9901/tsfile/live/1047_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "云南卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "云南卫视",
     "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/faacts/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://111.61.236.247:9081/hls/32/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "云南卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://cssbyd.imwork.net:8082/hls/36/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "云南卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/33/1033_1.m3u8?key=txiptv",
+    "url": "http://183.11.239.36:808/hls/52/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4686,12 +4656,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "优漫卡通",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "余姚姚江文化",
     "type": "Uncategorized",
     "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed",
@@ -4806,18 +4770,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "兰州新闻综合",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "兰州旅游",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "兰溪新闻综合",
     "type": "Uncategorized",
     "url": "http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed",
@@ -4856,13 +4808,19 @@
   {
     "name": "兵团卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/7/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "兵团卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000124.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "兵团卫视",
+    "type": "Uncategorized",
+    "url": "http://218.13.170.98:9901/tsfile/live/0115_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4880,25 +4838,25 @@
   {
     "name": "内蒙古卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/54/index.m3u8",
+    "url": "http://111.61.236.247:9081/hls/48/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "内蒙古卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/60/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "内蒙古卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/50/1050_1.m3u8?key=txiptv",
+    "url": "http://cssbyd.imwork.net:8082/hls/44/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "内蒙古卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/37/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4923,6 +4881,18 @@
     "name": "农林卫视",
     "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000122.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "农林卫视",
+    "type": "Uncategorized",
+    "url": "http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "农林卫视",
+    "type": "Uncategorized",
+    "url": "http://124.116.183.146:9901/tsfile/live/1004_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4962,9 +4932,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "动漫秀场",
+    "name": "北京卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1032_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4982,19 +4952,13 @@
   {
     "name": "北京卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/31/index.m3u8",
+    "url": "http://124.116.183.146:9901/tsfile/live/0122_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "北京卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "北京卫视",
-    "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/41/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5090,6 +5054,12 @@
   {
     "name": "南京新闻综合",
     "type": "Uncategorized",
+    "url": "http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "南京新闻综合",
+    "type": "Uncategorized",
     "url": "https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -5162,25 +5132,19 @@
   {
     "name": "卡酷少儿",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/57/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1060_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "卡酷少儿",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "卡酷少儿",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "厦门卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/17/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5276,31 +5240,31 @@
   {
     "name": "吉林卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/48/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1050_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "吉林卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://111.61.236.247:9081/hls/45/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "吉林卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://cssbyd.imwork.net:8082/hls/41/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "吉林卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/47/1047_1.m3u8?key=txiptv",
+    "url": "http://183.11.239.36:808/hls/10/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "吉林卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000097.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5394,12 +5358,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "嘉佳卡通",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "嘉兴新闻综合",
     "type": "Uncategorized",
     "url": "http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8",
@@ -5414,31 +5372,31 @@
   {
     "name": "四川卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub",
+    "url": "http://58.57.40.22:9901/tsfile/live/1046_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "四川卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://124.116.183.146:9901/tsfile/live/0123_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "四川卫视",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/50/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "四川卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000103.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "四川卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/36/1036_1.m3u8?key=txiptv",
+    "url": "http://182.150.23.74:808/hls/38/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5508,18 +5466,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "国学频道",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1118_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "地理",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "地理中国",
     "type": "Uncategorized",
     "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8",
@@ -5544,33 +5490,45 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "天津卫视",
+    "name": "大湾区卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/32/index.m3u8",
+    "url": "http://183.11.239.36:808/hls/132/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "大湾区卫视",
+    "type": "Uncategorized",
+    "url": "http://gmxw.7766.org:808/hls/132/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "天津卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1034_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "天津卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub",
+    "url": "http://124.116.183.146:9901/tsfile/live/0135_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "天津卫视",
     "type": "Uncategorized",
-    "url": "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/42/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "天津卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/44/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "天津卫视",
+    "type": "Uncategorized",
+    "url": "http://182.150.23.74:808/hls/27/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5618,13 +5576,31 @@
   {
     "name": "宁夏卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub",
+    "url": "http://58.57.40.22:9901/tsfile/live/1054_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "宁夏卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "宁夏卫视",
+    "type": "Uncategorized",
+    "url": "http://111.61.236.247:9081/hls/51/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "宁夏卫视",
+    "type": "Uncategorized",
+    "url": "http://cssbyd.imwork.net:8082/hls/45/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "宁夏卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/106/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5654,31 +5630,31 @@
   {
     "name": "安徽卫视",
     "type": "Uncategorized",
-    "url": "http://gmxw.7766.org:808/hls/40/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1033_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "安徽卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/34/index.m3u8",
+    "url": "http://124.116.183.146:9901/tsfile/live/0130_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "安徽卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/40/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "安徽卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub",
+    "url": "http://120.76.248.139/live/bfgd/4200000096.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "安徽卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/25/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5804,31 +5780,31 @@
   {
     "name": "山东卫视",
     "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/43/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "山东卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000099.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "山东卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/33/index.m3u8",
+    "url": "http://182.150.23.74:808/hls/23/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "山东卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://61.136.172.236:9901/tsfile/live/0131_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "山东卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山东卫视",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://123.130.84.106:8154/tsfile/live/0131_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5865,30 +5841,6 @@
     "name": "山西卫视",
     "type": "Uncategorized",
     "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山西卫视",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山西卫视",
-    "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山西卫视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/49/1049_1.m3u8?key=txiptv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山西卫视",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5966,6 +5918,12 @@
   {
     "name": "广东体育",
     "type": "Uncategorized",
+    "url": "http://cdn2.132.us.kg/live/gdty/stream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东体育",
+    "type": "Uncategorized",
     "url": "http://cdn2.163189.xyz/live/gdty/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -5976,33 +5934,51 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "广东卫视",
+    "name": "广东体育",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/2/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东体育",
+    "type": "Uncategorized",
+    "url": "http://218.13.170.98:9901/tsfile/live/0019_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广东卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub",
+    "url": "http://58.57.40.22:9901/tsfile/live/1039_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广东卫视",
     "type": "Uncategorized",
-    "url": "http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://124.116.183.146:9901/tsfile/live/0125_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广东卫视",
     "type": "Uncategorized",
-    "url": "http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260209040208b7fdef1503cd41b3a15efc83c4616146&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260209040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260209040208&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a52d374097b5f15c689423533a043ba9",
+    "url": "http://183.11.239.36:808/hls/80/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广东卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000092.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东卫视",
+    "type": "Uncategorized",
+    "url": "http://123.130.84.106:8154/tsfile/live/0125_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东少儿",
+    "type": "Uncategorized",
+    "url": "http://gmxw.7766.org:808/hls/175/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6020,19 +5996,31 @@
   {
     "name": "广东珠江",
     "type": "Uncategorized",
+    "url": "http://cdn2.132.us.kg/live/gdzj/stream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东珠江",
+    "type": "Uncategorized",
+    "url": "http://gmxw.7766.org:808/hls/83/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东珠江",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/83/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广东珠江",
+    "type": "Uncategorized",
     "url": "http://cdn2.163189.xyz/live/gdzj/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广东珠江",
     "type": "Uncategorized",
-    "url": "https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "广东珠江",
-    "type": "Uncategorized",
-    "url": "https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2",
+    "url": "http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6092,6 +6080,12 @@
   {
     "name": "广西卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1049_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "广西卫视",
+    "type": "Uncategorized",
     "url": "http://107.150.60.122/live/gxwshd.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -6104,19 +6098,13 @@
   {
     "name": "广西卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "广西卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "广西卫视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/46/1046_1.m3u8?key=txiptv",
+    "url": "http://cssbyd.imwork.net:8082/hls/33/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6200,6 +6188,12 @@
   {
     "name": "延边卫视",
     "type": "Uncategorized",
+    "url": "http://gmxw.7766.org:808/hls/15/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "延边卫视",
+    "type": "Uncategorized",
     "url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -6243,18 +6237,6 @@
     "name": "张掖七彩丹霞",
     "type": "Uncategorized",
     "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "影视剧场1",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "影视剧场2",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6354,12 +6336,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "文物宝库",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1108_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "斗鱼港剧",
     "type": "Uncategorized",
     "url": "http://www.goodiptv.club/douyu/5061550",
@@ -6422,13 +6398,31 @@
   {
     "name": "新疆卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1055_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "新疆卫视",
     "type": "Uncategorized",
-    "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "新疆卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/65/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "新疆卫视",
+    "type": "Uncategorized",
+    "url": "http://120.76.248.139/live/bfgd/4200000150.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "新疆卫视",
+    "type": "Uncategorized",
+    "url": "http://222.169.85.8:9901/tsfile/live/0110_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6495,36 +6489,6 @@
     "name": "方城一套",
     "type": "Uncategorized",
     "url": "http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "旅游卫视",
-    "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "旅游卫视",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "旅游卫视",
-    "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "旅游卫视",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "旅游卫视",
-    "type": "Uncategorized",
-    "url": "http://220.187.219.170:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6684,12 +6648,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "旺苍新闻综合",
-    "type": "Uncategorized",
-    "url": "http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "昌黎综合",
     "type": "Uncategorized",
     "url": "https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8",
@@ -6816,12 +6774,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "梨园频道",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "橙记港剧",
     "type": "Uncategorized",
     "url": "http://www.goodiptv.club/douyu/4549169",
@@ -6855,12 +6807,6 @@
     "name": "武汉一台新闻综合",
     "type": "Uncategorized",
     "url": "https://ls.qingting.fm/live/20198/64k.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "武汉少儿频道",
-    "type": "Uncategorized",
-    "url": "http://hzzzz530.com:4022/udp/239.69.1.6:9676",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6914,31 +6860,31 @@
   {
     "name": "江苏卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1031_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江苏卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/38/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江苏卫视",
     "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000085.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江苏卫视",
     "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/faacts/0127_2.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://112.46.85.60:8009/hls/33/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江苏卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://182.150.23.74:808/hls/18/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6974,31 +6920,31 @@
   {
     "name": "江西卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1043_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江西卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江西卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/37/1037_1.m3u8?key=txiptv",
+    "url": "http://183.11.239.36:808/hls/44/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江西卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000098.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "江西卫视",
     "type": "Uncategorized",
-    "url": "http://42.238.238.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7070,31 +7016,31 @@
   {
     "name": "河北卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1044_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "河北卫视",
+    "type": "Uncategorized",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "河北卫视",
+    "type": "Uncategorized",
+    "url": "http://111.61.236.247:9081/hls/17/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "河北卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/54/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "河北卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000108.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "河北卫视",
-    "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "河北卫视",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "河北卫视",
-    "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "河北卫视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/44/1044_1.m3u8?key=txiptv",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7106,31 +7052,31 @@
   {
     "name": "河南卫视",
     "type": "Uncategorized",
-    "url": "http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1048_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "河南卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://cssbyd.imwork.net:8082/hls/37/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "河南卫视",
     "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://183.11.239.36:808/hls/51/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "河南卫视",
     "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/34/1034_1.m3u8?key=txiptv",
+    "url": "http://120.76.248.139/live/bfgd/4200000339.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "河南卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://222.169.85.8:9901/tsfile/live/0139_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7274,13 +7220,7 @@
   {
     "name": "浙江卫视",
     "type": "Uncategorized",
-    "url": "http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "浙江卫视",
-    "type": "Uncategorized",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1029_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7292,13 +7232,19 @@
   {
     "name": "浙江卫视",
     "type": "Uncategorized",
-    "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "浙江卫视",
     "type": "Uncategorized",
-    "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8",
+    "url": "http://cssbyd.imwork.net:8082/hls/22/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "浙江卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/37/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7580,19 +7526,31 @@
   {
     "name": "海南卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1000_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "海南卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000473.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "海南卫视",
     "type": "Uncategorized",
-    "url": "http://39.152.103.17:8089/tsfile/live/1046_1.m3u8",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "海南卫视",
     "type": "Uncategorized",
-    "url": "http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/124/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "海南卫视",
+    "type": "Uncategorized",
+    "url": "http://cssbyd.imwork.net:8082/hls/31/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7617,6 +7575,12 @@
     "name": "海峡卫视",
     "type": "Uncategorized",
     "url": "http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "海峡卫视",
+    "type": "Uncategorized",
+    "url": "http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7706,31 +7670,31 @@
   {
     "name": "深圳卫视",
     "type": "Uncategorized",
-    "url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1036_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "深圳卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/35/index.m3u8",
+    "url": "http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "深圳卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://124.116.183.146:9901/tsfile/live/0126_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "深圳卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/45/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "深圳卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000100.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7776,9 +7740,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "游戏风云",
+    "name": "湖北卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1117_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1038_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7790,31 +7754,25 @@
   {
     "name": "湖北卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/37/index.m3u8",
+    "url": "http://124.116.183.146:9901/tsfile/live/0132_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "湖北卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/46/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "湖北卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub",
+    "url": "http://120.76.248.139/live/bfgd/4200000102.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "湖北卫视",
+    "name": "湖南卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "湖北影视",
-    "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1028_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7826,19 +7784,19 @@
   {
     "name": "湖南卫视",
     "type": "Uncategorized",
-    "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "湖南卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://124.116.183.146:9901/tsfile/live/0128_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "湖南卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009",
+    "url": "http://183.11.239.36:808/hls/36/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7992,12 +7950,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "热播剧场",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "热门港剧",
     "type": "Uncategorized",
     "url": "http://www.goodiptv.club/douyu/5522351",
@@ -8064,51 +8016,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "甘肃公共",
+    "name": "甘肃卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://58.57.40.22:9901/tsfile/live/1056_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "甘肃卫视",
     "type": "Uncategorized",
-    "url": "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8",
+    "url": "http://111.61.236.247:9081/hls/54/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "甘肃卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/51/index.m3u8",
+    "url": "http://cssbyd.imwork.net:8082/hls/48/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "甘肃卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/119/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "甘肃卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "甘肃卫视",
-    "type": "Uncategorized",
-    "url": "http://171.43.64.195:9901/tsfile/live/faacts/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "甘肃少儿",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "甘肃文化",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000119.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8124,33 +8058,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "甘肃都市",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "生态环境",
     "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000149.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "生活时尚",
+    "name": "电影刘德华",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "电影功夫片",
     "type": "Uncategorized",
     "url": "http://live.metshop.top/huya/11352941?cdn=alicdn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "电影周星星",
-    "type": "Uncategorized",
-    "url": "http://live.metshop.top/huya/11336587?cdn=alicdn",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8166,33 +8088,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影搞笑喜剧",
-    "type": "Uncategorized",
-    "url": "http://live.metshop.top/huya/11342423?cdn=alicdn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "电影梁家辉",
-    "type": "Uncategorized",
-    "url": "http://live.metshop.top/huya/11342429?cdn=alicdn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "电影谍战",
     "type": "Uncategorized",
     "url": "http://live.metshop.top/huya/21059585?cdn=alicdn",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影谍战片",
+    "name": "电影贺岁",
     "type": "Uncategorized",
-    "url": "http://live.metshop.top/huya/21059587?cdn=alicdn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "电影高分动作",
-    "type": "Uncategorized",
-    "url": "http://live.metshop.top/huya/11352884?cdn=alicdn",
+    "url": "http://live.metshop.top/huya/11601971?cdn=alicdn",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8346,18 +8250,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "纪实",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "纪实",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "纪实科教",
     "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000113.m3u8",
@@ -8385,12 +8277,6 @@
     "name": "经典剧集",
     "type": "Uncategorized",
     "url": "http://www.goodiptv.club/douyu/6863367",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "经典电影",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8666,13 +8552,25 @@
   {
     "name": "西藏卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "西藏卫视",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://cssbyd.imwork.net:8082/hls/46/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "西藏卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/64/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "西藏卫视",
+    "type": "Uncategorized",
+    "url": "http://120.76.248.139/live/bfgd/4200000121.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8726,31 +8624,31 @@
   {
     "name": "贵州卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1042_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "贵州卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000101.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "贵州卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/41/index.m3u8",
+    "url": "http://cssbyd.imwork.net:8082/hls/39/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "贵州卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/49/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "贵州卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "贵州卫视",
-    "type": "Uncategorized",
-    "url": "http://220.187.221.205:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://222.169.85.8:9901/tsfile/live/0120_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8769,12 +8667,6 @@
     "name": "赣州新闻",
     "type": "Uncategorized",
     "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "足球",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8822,31 +8714,31 @@
   {
     "name": "辽宁卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/42/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1035_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "辽宁卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://183.11.239.36:808/hls/47/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "辽宁卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub",
+    "url": "http://120.76.248.139/live/bfgd/4200000141.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "辽宁卫视",
     "type": "Uncategorized",
-    "url": "http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000185.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "辽宁卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://120.76.248.139/live/bfgd/4200000058.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9012,18 +8904,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "都市剧场",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "都市剧场",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "都江堰鱼嘴",
     "type": "Uncategorized",
     "url": "https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8",
@@ -9062,19 +8942,19 @@
   {
     "name": "重庆卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/44/index.m3u8",
+    "url": "http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "重庆卫视",
     "type": "Uncategorized",
-    "url": "http://139.227.221.148:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0",
+    "url": "http://124.116.183.146:9901/tsfile/live/0142_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "重庆卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub",
+    "url": "http://183.11.239.36:808/hls/53/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9104,31 +8984,13 @@
   {
     "name": "金鹰卡通",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/58/index.m3u8",
+    "url": "http://58.57.40.22:9901/tsfile/live/1059_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "金鹰卡通",
     "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "金鹰卡通",
-    "type": "Uncategorized",
-    "url": "http://42.238.238.34:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "金鹰纪实",
-    "type": "Uncategorized",
-    "url": "http://1.197.203.33:85/tsfile/live/1116_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "铜梁综合",
-    "type": "Uncategorized",
-    "url": "http://183.64.174.171:40123/ch1.m3u8?zzhongqd",
+    "url": "http://183.11.239.36:808/hls/69/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9198,24 +9060,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "陕西一套",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西三套",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西二套",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "陕西体育休闲",
     "type": "Uncategorized",
     "url": "https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c",
@@ -9255,30 +9099,6 @@
     "name": "陕西卫视",
     "type": "Uncategorized",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西卫视",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西卫视",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西卫视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/48/1048_1.m3u8?key=txiptv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "陕西四套",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9398,31 +9218,31 @@
   {
     "name": "青海卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1057_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "青海卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000111.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "青海卫视",
     "type": "Uncategorized",
-    "url": "http://42.227.89.86:9003/hls/53/index.m3u8",
+    "url": "http://123.130.84.106:8154/tsfile/live/0140_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "青海卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub",
+    "url": "http://111.61.236.247:9081/hls/49/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "青海卫视",
     "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "青海卫视",
-    "type": "Uncategorized",
-    "url": "http://114.241.111.140:85/tsfile/live/51/1051_1.m3u8?key=txiptv",
+    "url": "http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9638,31 +9458,31 @@
   {
     "name": "黑龙江卫视",
     "type": "Uncategorized",
+    "url": "http://58.57.40.22:9901/tsfile/live/1040_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "黑龙江卫视",
+    "type": "Uncategorized",
+    "url": "http://124.116.183.146:9901/tsfile/live/0143_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "黑龙江卫视",
+    "type": "Uncategorized",
+    "url": "http://183.11.239.36:808/hls/48/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "黑龙江卫视",
+    "type": "Uncategorized",
     "url": "http://120.76.248.139/live/bfgd/4200000095.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "黑龙江卫视",
     "type": "Uncategorized",
-    "url": "http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黑龙江卫视",
-    "type": "Uncategorized",
-    "url": "http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黑龙江卫视",
-    "type": "Uncategorized",
-    "url": "http://61.178.227.57:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黑龙江卫视",
-    "type": "Uncategorized",
-    "url": "http://124.116.183.146:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://61.136.172.236:9901/tsfile/live/0143_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15102,6 +14922,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Reuters",
+    "type": "国际",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png"
+  },
+  {
     "name": "Global News",
     "type": "国际",
     "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8",
@@ -15306,6 +15132,42 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Universal Movies",
+    "type": "国际",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8",
+    "img": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025._SL170_FMpng_.png"
+  },
+  {
+    "name": "Universal Action",
+    "type": "国际",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8",
+    "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png"
+  },
+  {
+    "name": "Universal Western",
+    "type": "国际",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8",
+    "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Westerns_FAST_TitleArt_White._SL170_FMpng_.png"
+  },
+  {
+    "name": "Universal Crime",
+    "type": "国际",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8",
+    "img": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png"
+  },
+  {
+    "name": "CW Gold",
+    "type": "国际",
+    "url": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png"
+  },
+  {
+    "name": "CW Forever",
+    "type": "国际",
+    "url": "https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png"
+  },
+  {
     "name": "Sony One Action HITS",
     "type": "国际",
     "url": "https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8",
@@ -15452,7 +15314,7 @@
   {
     "name": "Universal Monsters",
     "type": "国际",
-    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15486,16 +15348,82 @@
     "img": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png"
   },
   {
-    "name": "Rakuten Family",
+    "name": "Action Movies",
     "type": "国际",
-    "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
-    "img": "https://i.imgur.com/Meew6eX.png"
+    "url": "https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png"
   },
   {
-    "name": "中华小当家",
-    "type": "儿童频道",
-    "url": "https://live.metshop.top/huya/11342413",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "name": "Comedy Movies",
+    "type": "国际",
+    "url": "https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png"
+  },
+  {
+    "name": "Drama Movies",
+    "type": "国际",
+    "url": "https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png"
+  },
+  {
+    "name": "Romance Movies",
+    "type": "国际",
+    "url": "https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png"
+  },
+  {
+    "name": "Sci-Fi",
+    "type": "国际",
+    "url": "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png"
+  },
+  {
+    "name": "Thrillers",
+    "type": "国际",
+    "url": "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png"
+  },
+  {
+    "name": "Top Movies",
+    "type": "国际",
+    "url": "https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png"
+  },
+  {
+    "name": "Reality",
+    "type": "国际",
+    "url": "https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png"
+  },
+  {
+    "name": "Family",
+    "type": "国际",
+    "url": "https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png"
+  },
+  {
+    "name": "beIN SPORTS XTRA",
+    "type": "国际",
+    "url": "https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8",
+    "img": "https://image.xumo.com/v1/channels/channel/99991387/168x168.png?type=color_onBlack"
+  },
+  {
+    "name": "MTV",
+    "type": "国际",
+    "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/500px-MTV_2021_%28brand_version%29.svg.png"
+  },
+  {
+    "name": "ACC Network",
+    "type": "国际",
+    "url": "http://23.237.104.106:8080/USA_ACCN/mpegts",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/500px-ACC_Network_ESPN_logo.svg.png"
+  },
+  {
+    "name": "UFC",
+    "type": "国际",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8",
+    "img": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/ufc/channels/ufc-domestic400x200.png"
   },
   {
     "name": "苏州4K",
