@@ -72,6 +72,12 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
+    "name": "Peace TV Urdu",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
@@ -172,12 +178,6 @@
     "type": "Indian Bangla News",
     "url": "https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Calcutta News",
-    "type": "Indian Bangla News",
-    "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
-    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
   },
   {
     "name": "Kolkata TV",
@@ -630,12 +630,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CGTN News",
-    "type": "English News",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DW Naws",
     "type": "English News",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -690,12 +684,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Durronto TV",
-    "type": "Live Tv",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "SRK TV",
     "type": "Live Tv",
     "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8",
@@ -729,12 +717,6 @@
     "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "🚨Sathiya TV Srilanka 📡📺",
-    "type": "Cricket 🏏",
-    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1320,12 +1302,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Desh TV",
-    "type": "Bangladeshi 🇧🇩",
-    "url": "https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "GTV",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8",
@@ -1695,7 +1671,7 @@
     "name": "Dangal 2 (720p)",
     "type": "Entertainment",
     "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png"
+    "img": "https://i.imgur.com/BEr1r7L.png"
   },
   {
     "name": "Darshana TV (576p)",
@@ -4294,12 +4270,6 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
-  },
-  {
-    "name": "Peace TV Urdu (1080p)",
-    "type": "Religious",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
