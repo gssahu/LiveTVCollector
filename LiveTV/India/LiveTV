@@ -126,12 +126,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
@@ -165,12 +159,6 @@
     "name": "AL SUNNAH AL NABAWIYAH TV",
     "type": "Islamic",
     "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Makka live",
-    "type": "Islamic",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -324,6 +312,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"
   },
   {
+    "name": "B4U Kadak",
+    "type": "Hindi Movies",
+    "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"
+  },
+  {
     "name": "Sheemaroo Bollywood",
     "type": "Hindi Movies",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -336,9 +330,27 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10"
   },
   {
+    "name": "Goldmines",
+    "type": "Hindi Movies",
+    "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+    "img": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"
+  },
+  {
     "name": "Goldmines Bollywood",
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Goldmines Movies",
+    "type": "Hindi Movies",
+    "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Goldmines Movies 2",
+    "type": "Hindi Movies",
+    "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -480,12 +492,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Colors Infinity HD",
-    "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-    "img": "https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg"
-  },
-  {
     "name": "History TV 18",
     "type": "Information",
     "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
@@ -597,6 +603,12 @@
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Rongeen TV",
+    "type": "KIDS",
+    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1068,6 +1080,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Star Sports SL 2 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Sony-Ten-Cricket HD",
     "type": "Cricket 🏏",
     "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
@@ -1330,18 +1348,6 @@
     "type": "Movies",
     "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Goldmines (576p)",
-    "type": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Goldmines 2 (576p)",
-    "type": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png"
   },
   {
     "name": "Goldmines Movies (720p)",
@@ -1752,12 +1758,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Rongeen TV",
-    "type": "Kids",
-    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Unnamed Channel",
     "type": "Kids",
     "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
@@ -1824,12 +1824,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
-    "name": "Peace tv Bangla",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
-  },
-  {
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
@@ -1852,6 +1846,12 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
     "img": "https://i.ibb.co/cygNtwH/bahrain-quaran.png"
+  },
+  {
+    "name": "QURAN RADIOTV SMC",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+    "img": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png"
   },
   {
     "name": "AL QAMAR",
@@ -2043,6 +2043,12 @@
     "name": "Colors Infinity (576p)",
     "type": "Entertainment",
     "url": "http://103.72.101.252:8080/live/1325.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Colors Infinity HD (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
