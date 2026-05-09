@@ -126,6 +126,12 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+  },
+  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
@@ -159,6 +165,12 @@
     "name": "AL SUNNAH AL NABAWIYAH TV",
     "type": "Islamic",
     "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Makka live",
+    "type": "Islamic",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -594,12 +606,6 @@
     "img": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"
   },
   {
-    "name": "Tom & Jarry",
-    "type": "KIDS",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-    "img": "h"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -768,21 +774,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ATN BANGLA",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "BanglaVision",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "N TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -822,21 +816,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 24",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Star News",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MASSRANGA",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -882,12 +864,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Intelligence",
-    "type": "Live Tv",
-    "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Truestory",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8",
@@ -930,12 +906,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Delicious",
-    "type": "Live Tv",
-    "url": "https://nomawnoijl.gpcdn.net/akash/delicious/chunks.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Party Univers",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8",
@@ -960,21 +930,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Crazy_ex",
-    "type": "Live Tv",
-    "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/chunks.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Superrix",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/superrix/chunks.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Islamic TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1047,48 +1005,6 @@
     "name": "PTV Sports pk HD",
     "type": "Cricket 🏏",
     "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 1 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 2 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 5 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "EuroSports HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 1 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony-Ten-Cricket HD",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1716,6 +1632,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ATN Bangla",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel I",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8",
@@ -1822,6 +1744,12 @@
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Peace tv Bangla",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
     "name": "Noor Tv",
