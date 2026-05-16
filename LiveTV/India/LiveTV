@@ -30,6 +30,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
   },
   {
+    "name": "Green TV",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
+  },
+  {
     "name": "Srk Tv",
     "type": "Bangla",
     "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
@@ -60,6 +66,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Peace TV Bangla",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
+    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
+  },
+  {
     "name": "Peace TV Urdu",
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
@@ -70,12 +82,6 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-  {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -3384,18 +3390,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Unnamed Channel",
-    "type": "Kids",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZB Cartoon",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -3454,6 +3448,12 @@
     "type": "Kids",
     "url": "http://103.122.249.134:8000/play/a051",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "ZB Cartoon (1080p)",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
   },
   {
     "name": "Party Universe",
@@ -3798,6 +3798,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Durronto TV",
+    "type": "Live Tv",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel I",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8",
@@ -3993,6 +3999,12 @@
     "name": "Sangsad",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 1 News HD 🇧🇩",
+    "type": "Cricket 🏏",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4320,6 +4332,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Amazon SAT",
+    "type": "Infotainment Channels",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Times Of India",
     "type": "NEWS INTERNASIONAL TV",
     "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
@@ -4377,6 +4395,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
